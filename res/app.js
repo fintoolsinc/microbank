@@ -1,1 +1,30 @@
-var _0x3f2e=['getElementById','89NMrfPx','176483jNbYjt','2933uuROyp','9291kXZGyd','.login','12rtInqv','22129vqQLih','31547lPalJA','44ejBMLz','3FWKtfG','app','1431WshwEO','77VOtMcI','9119zkNjTP','addEventListener','click','1QIiRUu'];var _0x26cc=function(_0x1e932c,_0x1aad3b){_0x1e932c=_0x1e932c-0x1b7;var _0x3f2e2c=_0x3f2e[_0x1e932c];return _0x3f2e2c;};(function(_0x63e41b,_0x6925f7){var _0x581ce5=_0x26cc;while(!![]){try{var _0x3241b1=-parseInt(_0x581ce5(0x1bd))*parseInt(_0x581ce5(0x1c5))+-parseInt(_0x581ce5(0x1be))*parseInt(_0x581ce5(0x1ba))+parseInt(_0x581ce5(0x1c4))+parseInt(_0x581ce5(0x1c8))*-parseInt(_0x581ce5(0x1b7))+parseInt(_0x581ce5(0x1c1))*-parseInt(_0x581ce5(0x1b8))+parseInt(_0x581ce5(0x1c3))*parseInt(_0x581ce5(0x1bc))+-parseInt(_0x581ce5(0x1c6))*-parseInt(_0x581ce5(0x1b9));if(_0x3241b1===_0x6925f7)break;else _0x63e41b['push'](_0x63e41b['shift']());}catch(_0x3bfd5b){_0x63e41b['push'](_0x63e41b['shift']());}}}(_0x3f2e,0x27a31),async function(){var _0x36051c=_0x26cc;processPage(_0x36051c(0x1bb));}());async function processPage(_0x103fd1){loadEventListener(_0x103fd1);}async function loadEventListener(_0x5b48a9){loadEventClick(_0x5b48a9);}async function loadEventClick(_0x942c6f){var _0x447b0d=_0x26cc;document[_0x447b0d(0x1c2)]('btnSignIn')[_0x447b0d(0x1bf)](_0x447b0d(0x1c0),()=>{var _0x16994b=_0x447b0d;route(_0x942c6f+_0x16994b(0x1c7));});}
+//-------------------------------------------------------//
+// Author:Rodolfo Machon
+// Company:WebSoft, SA de CV
+// File Name: app.js
+// Created: 2021-03-11
+// Updates: 2021-03-11
+// Copyright - All Rights Reserved
+//-------------------------------------------------------//
+//-------------------------------------------------------//
+// LEVEL 0
+( async function() {
+    processPage('app');
+})();
+//-------------------------------------------------------//
+//LEVEL 1
+async function processPage(clas){
+    loadEventListener(clas);
+}
+//-------------------------------------------------------//
+//LEVEL 2
+async function loadEventListener(clas){
+    loadEventClick(clas);
+}
+//-------------------------------------------------------//
+//LEVEL 2
+async function loadEventClick(clas){
+    document.getElementById('btnSignIn').addEventListener('click', () => {route(clas+'.login')});
+}
+//-------------------------------------------------------//
+// AUXILIAR

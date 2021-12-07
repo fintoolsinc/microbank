@@ -1,1 +1,1234 @@
-const _0x29d8=['\x27,\x27','replaceAll','show','delete','#d33','stringify','-close-modal\x22\x20data-bs-dismiss=\x22modal\x22\x20aria-label=\x22Close\x22></button>\x0a\x09\x09\x09\x09\x09\x09\x09\x09</div>\x0a\x09\x09\x09\x09\x09\x09\x09\x09<div\x20class=\x22modal-body\x22\x20id=\x22','<nav><div\x20class=\x22nav\x20nav-tabs\x22\x20id=\x22nav-tab\x22\x20role=\x22tablist\x22></div></nav><div\x20class=\x22tab-content\x22\x20id=\x22nav-tab-content\x22></div>','json','hiddenCols','JPG','<li>{menus}</li>','1KXvKrV','alertModalDiv','searching','TEXTAREA','pop','tagName','object','detail','every','post','text/css','then','_record\x22>\x0a\x0a\x09\x09\x09\x09\x09\x09\x09\x09</div>\x0a\x09\x09\x09\x09\x09\x09\x09</div>\x0a\x09\x09\x09\x09\x09\x09</div>\x0a\x09\x09\x09\x09\x09</div>','parents','html','beforeend','keyMas','rowCallback','checkValidity','/record.remove','getElementsByClassName','59202BVaWrm','447200WoVaWc','files','td:eq(','querySelector','_blank','clas','page','focus','<div\x20class=\x22modal\x20fade\x22\x20id=\x22alertModalDiv\x22\x20data-bs-backdrop=\x22static\x22\x20data-bs-keyboard=\x22false\x22\x20tabindex=\x22-1\x22\x20aria-labelledby=\x22staticBackdropLabel\x22\x20aria-hidden=\x22true\x22>\x0a\x09\x09\x09\x09\x09\x09<div\x20class=\x22modal-dialog\x22>\x0a\x09\x09\x09\x09\x09\x09\x09<div\x20class=\x22modal-content\x22>\x0a\x09\x09\x09\x09\x09\x09\x09\x09<div\x20class=\x22modal-header\x22>\x0a\x09\x09\x09\x09\x09\x09\x09\x09\x09<h4\x20class=\x22modal-title\x22\x20id=\x22staticBackdropLabel\x22>Alert\x20!!</h4>\x0a\x09\x09\x09\x09\x09\x09\x09\x09\x09<button\x20type=\x22button\x22\x20class=\x22btn-close\x22\x20data-bs-dismiss=\x22modal\x22\x20aria-label=\x22Close\x22></button>\x0a\x09\x09\x09\x09\x09\x09\x09\x09</div>\x0a\x09\x09\x09\x09\x09\x09\x09\x09<div\x20class=\x22modal-body\x22><h6>','col-lg-12\x20col-md-12','\x22\x20style=\x22color:#f0ad4e\x22></i></a>\x20','states','title','_modal\x22\x20tabindex=\x22-1\x22\x20aria-labelledby=\x22','224783aiJSoQ','tab,clas,sflds,svals,buttons,states,upld,foot,hiddenCols,iniSearch,keyCol,clasDesc,keyMas,desMas,recBut,icoSize','\x20<a\x20href=\x22#\x22\x20id=\x22btnNoOk\x22><i\x20class=\x22fas\x20fa-times\x22\x20style=\x22color:red\x22></i></a>\x20','\x20<a\x20href=\x22#\x22\x20id=\x22btnOk\x22><i\x20class=\x22fas\x20fa-check\x22></i></a>\x20','innerText','\x20<a\x20href=\x22#\x22\x20id=\x22btnView\x22><i\x20class=\x22fas\x20fa-eye\x20','lengthChange','62791ovQsIJ','textContent','serverSide','string','410335rFrkcW','<ul\x20class=\x27nav\x20flex-column\x27>{barra}</ul></div>','doctype','</h5>\x0a\x09\x09\x09\x09\x09\x09\x09\x09\x09<button\x20type=\x22button\x22\x20class=\x22btn-close\x22\x20id=\x22','</h6></div>\x0a\x09\x09\x09\x09\x09\x09\x09\x09<div\x20class=\x22modal-footer\x22>\x0a\x09\x09\x09\x09\x09\x09\x09\x09\x09<button\x20type=\x22button\x22\x20class=\x22btn\x20btn-outline-secondary\x22\x20data-bs-dismiss=\x22modal\x22>Cancel</button>\x0a\x09\x09\x09\x09\x09\x09\x09\x09\x09<button\x20type=\x22button\x22\x20class=\x22btn\x20btn-outline-primary\x22\x20data-bs-dismiss=\x22modal\x22\x20onclick=\x22','src','/search.data','_plus\x27l>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<\x27row\x27\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<\x27col-sm-12\x27tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','accordion-header-','/res/js/','#sideBar','/file.upload','<a\x20class=\x27nav-link\x27\x20id=\x27nav-{clas}-tab\x27\x20data-bs-toggle=\x27tab\x27\x20href=\x27#nav-{clas}\x27\x20role=\x27tab\x27\x20aria-controls=\x27nav-{clas}\x27\x20aria-selected=\x27false\x27><h6\x20class=\x27text-primary\x27>{desc}</h6></a>','deskOption','if(rowData[','_tab\x20tbody','icoSize','/desk.nav','addEventListener','header','state','sflds','split','\x27)}','isDataTable','col-lg-6\x20col-sm-12','desMas','clasDesc','destroyLoadRecord(\x27','\x27){$(td).html(\x27','add','keys','\x22\x20style=\x22color:red\x22></i></a>\x20','buttons','fas\x20fa-check-circle','catch','SELECT','inx','/search.header?clase=','<ul\x20class=\x27list-unstyled\x20ps-3\x20collapse\x27\x20id=\x22{menu_id}\x22>{opciones}</ul>','length','sort','fileInputTarget','rel','data','Lack\x20of\x20required\x20parameter.','script','\x20<a\x20href=\x22#\x22\x20id=\x22btnDelete\x22><i\x20class=\x22fa\x20fa-trash-alt\x20','click','/file.remove','language','win','fire','destroy','nav-tab-content','rows','#col-table-','Ocurrio\x20un\x20error\x20al\x20intentar\x20imprimir\x20el\x20documento,\x20por\x20favor,\x20intentalo\x20nuevamente','<\x27row\x27\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<\x27col-sm-12\x20col-md-6\x20col-lg-4\x27f>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<\x27col-sm-12\x20col-md-6\x20col-lg-8\x20','#3085d6','/option?id=','insertAdjacentHTML','¿Está\x20Seguro/a\x20de\x20Guardar\x20esta\x20Información?','open','col-table-','INPUT','Given\x20CSS-selector\x20is\x20not\x20valid.','foot','application/json','List\x20of\x20CSS-classes\x20is\x20not\x20valid.','undefined','¡Atención!','iDisplayLength','getElementById','error','replace','/collection.get','/collection.pairFiltered','#col-accordion-','innerHTML','.record','inxDt','_plus','collapse','.code','toggle','toUpperCase','nav-','td,\x20cellData,\x20rowData,\x20row,\x20col','/record.set','record','\x22></i></a>\x20','DataTable','.sidebar','</tr></thead>','error:','_plus\x27l>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<\x27row\x27\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<\x27col-sm-12\x27tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<\x27row\x27\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<\x27col-sm-12\x20col-md-5\x27i>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<\x27col-sm-12\x20col-md-7\x27p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20>','text','keyCol','<div\x20class=\x22modal\x20fade\x22\x20id=\x22','Si,\x20Guardar','edit','recBut','.name','className','form','Modal','option','inxId','gridUpload','<li><a\x20class=\x22d-inline-flex\x20align-items-center\x20rounded\x22\x20href=\x27#\x27\x20id=\x27{entidad}.{componente}\x27\x20title=\x27{opcion_desc}\x27>{opcion_desc}</a></li>','file.get?nombre=','log','¿Está\x20Seguro/a\x20de\x20Subir\x20este\x20Archivo?','file','_add','type','\x20found.','warning','recordsDisplay','[id*=btnEdit]','_modal','link','push','\x20Data\x20Might\x20Be\x20Lost,\x20Are\x20You\x20Sure\x20To\x20Continue\x20?','_tab',']\x20===\x20\x27','<div\x20class=\x22tab-pane\x20fade\x22\x20id=\x22nav-{clas}\x22\x22\x20role=\x22tabpanel\x22\x20aria-labelledby=\x22nav-{clas}-tab\x22>\x0a\x09\x09\x09\x09\x09\x09<div\x20class=\x22row\x20px-1\x22>\x0a\x09\x09\x09\x09\x09\x09\x09<div\x20class=\x22col-12\x22\x20id=\x22col-table-{clas}\x22></div>\x0a\x09\x09\x09\x09\x09\x09\x09<div\x20class=\x22\x22\x20id=\x22col-accordion-{clas}\x22></div>\x0a\x09\x09\x09\x09\x09\x09</div>\x0a\x09\x09\x09\x09\x09</div>\x0a\x09\x09\x09\x09\x20','draw','setAttribute','.form','svals','ModalCenterTitle\x22>','\x20<a\x20href=\x22#\x22\x20id=\x22btnEdit\x22><i\x20class=\x22fa\x20fa-edit\x20','navMenu','-tab','fileControlTarget','<li\x20class=\x27divider\x27></li>','get','remove','¡Lo\x20sentimos!','row','/login','append','198657hhKBrz','<div\x20class=\x22row\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22col-md-6\x22><a\x20href=\x22#\x22\x20id=\x22file.{clase}.{doctype}.view\x22\x20style=\x22visibility:hidden;\x22><i\x20class=\x22fas\x20fa-eye\x20fa-2x\x22\x20style=\x22color:#f0ad4e\x22></i></a></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22col-md-6\x22><a\x20href=\x22#\x22\x20id=\x22file.{clase}.{doctype}.remove\x22\x20style=\x22visibility:hidden;\x22><i\x20class=\x22fa\x20fa-trash-alt\x20fa-2x\x22\x20style=\x22color:#d9534f\x22></i></a></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>','value','1525536oMiXVL','classList','POST','indexOf','nav-tab','<th>','file.','<h2\x20class=\x27h6\x20pt-2\x20pb-3\x20mb-4\x20border-bottom\x20mx-2\x27>System\x20Options</h2>','view','deskModal','stylesheet','href','iniSearch','¿Está\x20Seguro/a\x20de\x20Eliminar\x20esta\x20Información?','Are\x20you\x20sure,\x20you\x20wish\x20to\x20remove\x20this\x20information\x20?','col-accordion-','</h6></div>\x0a\x09\x09\x09\x09\x09\x09\x09\x09<div\x20class=\x22modal-footer\x22>\x0a\x09\x09\x09\x09\x09\x09\x09\x09\x09<button\x20type=\x22button\x22\x20class=\x22btn\x20btn-outline-secondary\x22\x20data-bs-dismiss=\x22modal\x22>Cancel</button>\x0a\x09\x09\x09\x09\x09\x09\x09\x09\x09<button\x20type=\x22button\x22\x20class=\x22btn\x20btn-outline-primary\x22\x20data-bs-dismiss=\x22modal\x22\x20onclick=\x22processModal(\x27','ajax','/res/modules/datatables/lang/','.js','.json','JPEG','active','oSearch','.id.form','clase','/file.search','_add\x27\x20style=\x27margin-right:10px;height:2rem\x27><i\x20class=\x27far\x20fa-plus-square\x20fa-2x\x27></i>','info','columnDefs','.search','toLowerCase','parse','hasOwnProperty','accordion-body-','body','/record.save','Favor\x20Completar\x20','tab','createElement','forEach'];const _0x2fae=function(_0x5a81bd,_0x29edcb){_0x5a81bd=_0x5a81bd-0x16b;let _0x29d83f=_0x29d8[_0x5a81bd];return _0x29d83f;};const _0x51fb24=_0x2fae;(function(_0x45e4ca,_0x3efad2){const _0x3074cb=_0x2fae;while(!![]){try{const _0x584a28=-parseInt(_0x3074cb(0x222))+-parseInt(_0x3074cb(0x208))+-parseInt(_0x3074cb(0x209))+parseInt(_0x3074cb(0x1f3))*parseInt(_0x3074cb(0x21e))+-parseInt(_0x3074cb(0x217))+-parseInt(_0x3074cb(0x1bb))+parseInt(_0x3074cb(0x1be));if(_0x584a28===_0x3efad2)break;else _0x45e4ca['push'](_0x45e4ca['shift']());}catch(_0x4bd777){_0x45e4ca['push'](_0x45e4ca['shift']());}}}(_0x29d8,0x3c956));var component={},dataTable={},modalRemovePros={};const route=_0x444e40=>fetch(_0x51fb24(0x25e)+_0x444e40)[_0x51fb24(0x1fe)](function(_0xe9f5f6){return _0xe9f5f6['text']();})[_0x51fb24(0x1fe)](function(_0x3f5ca8){const _0x450926=_0x51fb24;document['querySelector']('body')[_0x450926(0x17a)]=_0x3f5ca8,loadScript(_0x444e40);}),login=_0x2d87dd=>{return new Promise((_0xf512ef,_0x59f378)=>{const _0x1ed138=_0x2fae;fetch(_0x1ed138(0x1b9),{'method':_0x1ed138(0x1c0),'headers':{'Content-Type':'application/json'},'body':JSON[_0x1ed138(0x1ec)](_0x2d87dd)})[_0x1ed138(0x1fe)](_0x12be2c=>_0x12be2c['json']())[_0x1ed138(0x1fe)](_0x5c541c=>{_0xf512ef(_0x5c541c['sid']);})['catch'](_0x98c5ed=>console[_0x1ed138(0x19b)](_0x98c5ed));});},nav=_0x4bcd6d=>{return new Promise((_0x119ff1,_0x18feb2)=>{const _0x3f0266=_0x2fae;fetch(_0x3f0266(0x233),{'method':_0x3f0266(0x1c0),'headers':{'Content-Type':_0x3f0266(0x16f)},'body':JSON['stringify'](_0x4bcd6d)})['then'](_0x4bcb3c=>_0x4bcb3c['json']())[_0x3f0266(0x1fe)](_0x1b1e41=>{constructNav(_0x1b1e41),_0x119ff1(!![]);})[_0x3f0266(0x245)](_0x4098a5=>console[_0x3f0266(0x19b)](_0x4098a5));});},session=_0x22858b=>{return new Promise((_0x29c617,_0x32b7fe)=>{const _0x2c5a5a=_0x2fae;fetch('/session',{'method':_0x2c5a5a(0x1c0),'headers':{'Content-Type':'application/json'},'body':JSON[_0x2c5a5a(0x1ec)](_0x22858b)})[_0x2c5a5a(0x1fe)](_0x55cf4c=>_0x55cf4c[_0x2c5a5a(0x1ef)]())['then'](_0xfd4315=>{_0x29c617(_0xfd4315);})['catch'](_0x405035=>console[_0x2c5a5a(0x19b)](_0x405035));});};function showSideBar(){const _0x3a2f6e=_0x51fb24;let _0x5844c8=document['querySelector'](_0x3a2f6e(0x188));_0x5844c8['classList'][_0x3a2f6e(0x180)](_0x3a2f6e(0x1d4)),toggleClasses(_0x3a2f6e(0x22c),_0x3a2f6e(0x17e)),toggleClasses('#content',_0x3a2f6e(0x212));}function loadRecordAlert(_0xbbd5f7,_0x49ee79,_0x1222e5,_0x2801ec,_0x3667d3){const _0x138004=_0x51fb24;document[_0x138004(0x174)](_0xbbd5f7)?alertModal(_0x2801ec+_0x138004(0x1a7),_0x138004(0x23e)+_0xbbd5f7+'\x27,\x27'+_0x49ee79+_0x138004(0x1e7)+_0x1222e5+_0x138004(0x1e7)+_0x2801ec+_0x138004(0x1e7)+_0x3667d3+'\x27)'):loadRecord(_0xbbd5f7,_0x49ee79,_0x1222e5,_0x2801ec,_0x3667d3);}async function loadForm(_0x4be2dd,_0x3965f4,_0x571d44,_0x453f1f,_0x530f44,_0x520d78){const _0x3deae7=_0x51fb24;component[_0x4be2dd]={'id':_0x571d44,'mid':_0x530f44,'inx':'','desc':_0x453f1f,'dmas':_0x520d78},destroyForm(_0x4be2dd),await fetch(_0x3deae7(0x25e)+_0x4be2dd+_0x3deae7(0x1ad))['then'](function(_0x37d035){return _0x37d035['text']();})[_0x3deae7(0x1fe)](function(_0x198c11){const _0x5e73c7=_0x3deae7;document[_0x5e73c7(0x174)](_0x5e73c7(0x1cd)+_0x4be2dd)[_0x5e73c7(0x25f)](_0x5e73c7(0x202),_0x198c11);}),loadScript(_0x4be2dd+'.'+_0x3965f4),document[_0x3deae7(0x174)](_0x3deae7(0x16b)+_0x4be2dd)[_0x3deae7(0x193)]=_0x3deae7(0x23b),document['getElementById'](_0x3deae7(0x1cd)+_0x4be2dd)[_0x3deae7(0x193)]=_0x3deae7(0x23b),document[_0x3deae7(0x174)](_0x4be2dd+_0x3deae7(0x1d6))[_0x3deae7(0x17a)]=_0x571d44,document[_0x3deae7(0x174)](_0x4be2dd+'.desc.form')[_0x3deae7(0x17a)]=_0x520d78;}async function loadRecordAccordion(_0x3ab46d,_0x1f3a34,_0x248755,_0x5e86f5){const _0x3e6459=_0x51fb24;component[_0x3ab46d]={'id':_0x1f3a34,'mid':'','inx':_0x248755,'desc':_0x5e86f5},document[_0x3e6459(0x174)](_0x3e6459(0x22a)+_0x248755)[_0x3e6459(0x17a)]=_0x5e86f5,await fetch(_0x3e6459(0x25e)+_0x3ab46d+'.record')[_0x3e6459(0x1fe)](function(_0x5624c2){const _0x47aa5f=_0x3e6459;return _0x5624c2[_0x47aa5f(0x18c)]();})[_0x3e6459(0x1fe)](function(_0x43ec9a){const _0x2ad9ad=_0x3e6459;document[_0x2ad9ad(0x174)](_0x2ad9ad(0x1e0)+_0x248755)[_0x2ad9ad(0x17a)]=_0x43ec9a;}),loadScript(_0x3ab46d+_0x3e6459(0x17b));}async function loadSearchAccordion(_0x21f84a,_0x549c84,_0x2d8f11,_0x351d45){const _0x2c3616=_0x51fb24;component[_0x21f84a]={'id':'','mid':_0x549c84,'inx':_0x2d8f11,'desc':_0x351d45},document[_0x2c3616(0x174)](_0x2c3616(0x22a)+_0x2d8f11)['innerHTML']=_0x351d45,await fetch(_0x2c3616(0x25e)+_0x21f84a+'.search')[_0x2c3616(0x1fe)](function(_0x5ae867){const _0x8491be=_0x2c3616;return _0x5ae867[_0x8491be(0x18c)]();})['then'](function(_0x324271){const _0x26977=_0x2c3616;document[_0x26977(0x174)](_0x26977(0x1e0)+_0x2d8f11)[_0x26977(0x17a)]=_0x324271;}),loadScript(_0x21f84a+_0x2c3616(0x1dc));}async function loadRecord(_0x3ec755,_0x5a4f4b,_0x12dbc2,_0x941c2d,_0x56be9e){const _0x12ef61=_0x51fb24;component[_0x3ec755]={'id':_0x12dbc2,'mid':_0x56be9e,'com':_0x5a4f4b,'desc':_0x941c2d};if(!document[_0x12ef61(0x174)](_0x3ec755+_0x12ef61(0x1a4))){let _0x22706b=_0x12ef61(0x18e)+_0x3ec755+_0x12ef61(0x216)+_0x3ec755+'ModalCenterTitle\x22\x20aria-hidden=\x22true\x22>\x0a\x09\x09\x09\x09\x09\x09<div\x20class=\x22modal-dialog\x20modal-dialog-centered\x20modal-lg\x22>\x0a\x09\x09\x09\x09\x09\x09\x09<div\x20class=\x22modal-content\x22>\x0a\x09\x09\x09\x09\x09\x09\x09\x09<div\x20class=\x22modal-header\x22>\x0a\x09\x09\x09\x09\x09\x09\x09\x09\x09<h5\x20class=\x22modal-title\x22\x20id=\x22'+_0x3ec755+_0x12ef61(0x1af)+_0x941c2d+_0x12ef61(0x225)+_0x3ec755+(_0x12ef61(0x1ed)+_0x3ec755+_0x12ef61(0x1ff));document[_0x12ef61(0x174)](_0x12ef61(0x22f))['innerHTML']=_0x22706b;}document[_0x12ef61(0x174)](_0x3ec755+'-close-modal')['addEventListener'](_0x12ef61(0x252),async _0x233734=>{destroyRecord(_0x3ec755);}),await fetch('/option?id='+_0x3ec755+'.record')[_0x12ef61(0x1fe)](function(_0x58efcd){const _0x3db270=_0x12ef61;return _0x58efcd[_0x3db270(0x18c)]();})[_0x12ef61(0x1fe)](function(_0x4f4d40){const _0x243a90=_0x12ef61;document[_0x243a90(0x174)](_0x3ec755+'_record')['innerHTML']=_0x4f4d40;}),loadScript(_0x3ec755+_0x12ef61(0x17b));}async function loadOption(_0x562562,_0x35795f){const _0x187f02=_0x51fb24;let _0x3a726d=_0x562562[_0x187f02(0x238)]('.'),_0x2533fd=_0x3a726d[0x0],_0x1aa2fc=_0x3a726d[0x1];document['getElementById']('nav-'+_0x2533fd+_0x187f02(0x1b2))&&destroyTab(_0x2533fd),constructNavTab(),addNavClasTab(_0x2533fd,_0x35795f),await fetch('/option?id='+_0x562562)['then'](function(_0x562a8f){return _0x562a8f['text']();})[_0x187f02(0x1fe)](function(_0x4c9257){const _0x54f911=_0x187f02;document[_0x54f911(0x174)](_0x54f911(0x16b)+_0x2533fd)[_0x54f911(0x25f)](_0x54f911(0x202),_0x4c9257);}),loadScript(_0x562562);}function constructNav(_0x10a3db){const _0x2457db=_0x51fb24;let _0x23d71d=_0x2457db(0x223),_0x43e8b6=_0x2457db(0x1f2),_0x3e274f='<li>\x0a\x09\x09\x09\x09\x09<button\x20class=\x22btn\x20d-inline-flex\x20align-items-center\x20collapsed\x20\x22\x09data-bs-toggle=\x22collapse\x22\x20aria-expanded=\x22false\x22\x20data-bs-target=\x22#{menu_id}\x22\x20aria-controls=\x22{menu_id}\x22>{bar_icon}{bar_des}</button>\x0a\x09\x09\x09\x09\x09{menu}\x0a\x09\x09\x09\x09\x20\x20</li>\x0a\x09\x09\x09\x09\x20',_0xc9a79c=_0x2457db(0x249),_0x5982cd=_0x2457db(0x1b4),_0x27822c={};_0x27822c['div']=_0x2457db(0x199),_0x27822c[_0x2457db(0x255)]=_0x2457db(0x199),_0x27822c[_0x2457db(0x1e4)]='<li><a\x20class=\x22d-inline-flex\x20align-items-center\x20rounded\x22\x20href=\x27#\x27\x20id=\x27{entidad}.{componente}\x27\x20title=\x27{opcion_desc}\x27>{opcion_desc}</a></li>';let _0x5af35f={},_0x266f7e={},_0x535c31={},_0x200660={},_0x4885d6={};for(let _0x1c33b3 in _0x10a3db){const {bar_id:_0x2a2b74,bar_des:_0x575838,bar_icon:_0x384359,menu_id:_0x5cf4ba,menu_des:_0x3090b1,opcion_id:_0x78a617,opcion_des:_0x4b18f2,entidad:_0x39ea94,componente:_0x4bb5d6,opciontipo_id:_0x28a598,contenedor_id:_0x482d25,url:_0x494715,bindex:_0x5f1970,mindex:_0x1df0bb,rindex:_0x2f03e4}=_0x10a3db[_0x1c33b3];let _0x596efb=_0x27822c[_0x482d25],_0x5b6f68=_0x494715,_0x3ed13e=window[_0x5b6f68];_0x596efb=_0x596efb[_0x2457db(0x176)](/{entidad}/g,_0x39ea94),_0x596efb=_0x596efb[_0x2457db(0x176)](/{componente}/g,_0x4bb5d6),_0x596efb=_0x596efb[_0x2457db(0x176)](/{opcion_desc}/g,_0x4b18f2),_0x596efb=_0x596efb[_0x2457db(0x176)](/{param}/g,_0x3ed13e),_0x5af35f[_0x2a2b74+'_'+_0x5cf4ba]=_0x596efb+_0x5982cd+_0x5af35f[_0x2a2b74+'_'+_0x5cf4ba],_0x266f7e[_0x5cf4ba]=_0x3090b1,_0x535c31[_0x2a2b74]=_0x575838,_0x200660[_0x2a2b74]=_0x384359,_0x4885d6[_0x39ea94+'.'+_0x4bb5d6]=0x1;}let _0x14648e={};Object[_0x2457db(0x241)](_0x5af35f)[_0x2457db(0x1e6)](_0x463112=>{const _0x5dbb8d=_0x2457db;let _0x43d629=_0x5af35f[_0x463112];_0x43d629=_0x43d629[_0x5dbb8d(0x176)](/undefined/g,''),_0x43d629=_0x43d629['substr'](0x0,_0x43d629[_0x5dbb8d(0x24a)]-_0x5982cd[_0x5dbb8d(0x24a)]);let _0x5c1c54=_0x463112[_0x5dbb8d(0x238)]('_'),_0x3f52f7=_0xc9a79c;_0x3f52f7=_0x3f52f7[_0x5dbb8d(0x176)](/{opciones}/g,_0x43d629);let _0x597166=_0x3e274f;_0x597166=_0x597166[_0x5dbb8d(0x176)](/{menu}/g,_0x3f52f7),_0x597166=_0x597166[_0x5dbb8d(0x176)](/{menu_id}/g,_0x535c31[_0x5c1c54[0x0]]),_0x597166=_0x597166[_0x5dbb8d(0x176)](/{bar_des}/g,_0x535c31[_0x5c1c54[0x0]]),_0x597166=_0x597166[_0x5dbb8d(0x176)](/{bar_icon}/g,_0x200660[_0x5c1c54[0x0]]),_0x14648e[_0x5c1c54[0x0]]=_0x597166+_0x5982cd+_0x14648e[_0x5c1c54[0x0]];});let _0x5e5dad='';Object[_0x2457db(0x241)](_0x14648e)['forEach'](_0x1db219=>{const _0x1cf89c=_0x2457db;let _0x19bda4=_0x14648e[_0x1db219];_0x19bda4=_0x19bda4[_0x1cf89c(0x176)](/undefined/g,''),_0x19bda4=_0x19bda4['substr'](0x0,_0x19bda4[_0x1cf89c(0x24a)]-_0x5982cd[_0x1cf89c(0x24a)]);let _0x5b8262=_0x43e8b6;_0x5b8262=_0x5b8262[_0x1cf89c(0x176)](/{menus}/g,_0x19bda4),_0x5b8262=_0x5b8262[_0x1cf89c(0x176)](/{barra_des}/g,_0x535c31[_0x1db219]);let _0x1b606f=_0x23d71d;_0x1b606f=_0x1b606f[_0x1cf89c(0x176)](/{barra}/g,_0x5b8262),_0x5e5dad+=_0x1b606f;});let _0x47e9ed=_0x2457db(0x1c5)+_0x5e5dad;document[_0x2457db(0x174)](_0x2457db(0x1b1))[_0x2457db(0x17a)]=_0x47e9ed,Object[_0x2457db(0x241)](_0x4885d6)['forEach'](_0x308183=>{const _0x32b07e=_0x2457db;document[_0x32b07e(0x174)](_0x308183)[_0x32b07e(0x234)]('click',async _0x556e38=>{const _0xb6d14e=_0x32b07e;loadOption(_0x308183,_0x556e38['target'][_0xb6d14e(0x215)]);});});}function constructNavTab(){const _0x380e3a=_0x51fb24;let _0x2fcf3c=_0x380e3a(0x1ee);!document[_0x380e3a(0x174)](_0x380e3a(0x1c2))&&(document[_0x380e3a(0x20c)]('main')[_0x380e3a(0x17a)]=_0x2fcf3c);}function addNavClasTab(_0x2fb673,_0x383b36){const _0x5f1c30=_0x51fb24;if(document[_0x5f1c30(0x174)](_0x5f1c30(0x182)+_0x2fb673+_0x5f1c30(0x1b2)))return;let _0x3ca151=_0x5f1c30(0x22e);_0x3ca151=_0x3ca151['replace'](/{clas}/g,_0x2fb673),_0x3ca151=_0x3ca151[_0x5f1c30(0x176)](/{desc}/g,_0x383b36);!document[_0x5f1c30(0x174)](_0x5f1c30(0x1c2))['hasChildNodes']()?document[_0x5f1c30(0x174)]('nav-tab')[_0x5f1c30(0x17a)]=_0x3ca151:document['getElementById'](_0x5f1c30(0x1c2))[_0x5f1c30(0x25f)](_0x5f1c30(0x202),_0x3ca151);let _0xc9a5d6=_0x5f1c30(0x1aa);_0xc9a5d6=_0xc9a5d6['replace'](/{clas}/g,_0x2fb673),!document[_0x5f1c30(0x174)]('nav-tab-content')['hasChildNodes']()?document['getElementById']('nav-tab-content')[_0x5f1c30(0x17a)]=_0xc9a5d6:document[_0x5f1c30(0x174)](_0x5f1c30(0x258))['insertAdjacentHTML']('beforeend',_0xc9a5d6);}async function alertModal(_0x1c9996,_0x1d3e1b){const _0x1bf3bd=_0x51fb24;let _0x37e6a3=_0x1bf3bd(0x211)+_0x1c9996+_0x1bf3bd(0x226)+_0x1d3e1b+'\x22>Yes</button>\x0a\x09\x09\x09\x09\x09\x09\x09\x09</div>\x0a\x09\x09\x09\x09\x09\x09\x09</div>\x0a\x09\x09\x09\x09\x09\x09</div>\x0a\x09\x09\x09\x09\x09</div>\x20';document[_0x1bf3bd(0x174)](_0x1bf3bd(0x1c7))['innerHTML']=_0x37e6a3;var _0x6e7a1a=new bootstrap[(_0x1bf3bd(0x195))](document[_0x1bf3bd(0x174)](_0x1bf3bd(0x1f4)),{'keyboard':![]});_0x6e7a1a[_0x1bf3bd(0x1e9)]();}async function alertModalProcess(_0x2c79a0,_0x355823,_0x55d965){const _0xea239=_0x51fb24;let _0x3deaa1=_0xea239(0x211)+_0x2c79a0+_0xea239(0x1ce)+_0x355823+_0xea239(0x1e7)+_0x55d965+'\x27);\x22>Yes</button>\x0a\x09\x09\x09\x09\x09\x09\x09\x09</div>\x0a\x09\x09\x09\x09\x09\x09\x09</div>\x0a\x09\x09\x09\x09\x09\x09</div>\x0a\x09\x09\x09\x09\x09</div>\x20';document[_0xea239(0x174)]('deskModal')['innerHTML']=_0x3deaa1;var _0xcc7f97=new bootstrap[(_0xea239(0x195))](document['getElementById']('alertModalDiv'),{'keyboard':![]});_0xcc7f97[_0xea239(0x1e9)]();}function destroyLoadRecord(_0x4c4906,_0x4aa6ee,_0xa7daed,_0x40c817,_0x511dd6){destroyForm(_0x4c4906),loadRecord(_0x4c4906,_0x4aa6ee,_0xa7daed,_0x40c817,_0x511dd6);}function destroyTab(_0x45f779){const _0x3362d7=_0x51fb24;document['querySelector']('#nav-'+_0x45f779+_0x3362d7(0x1b2))[_0x3362d7(0x1b6)](),document[_0x3362d7(0x20c)]('#nav-'+_0x45f779)[_0x3362d7(0x1b6)]();}function destroyRecord(_0x2e9850){const _0x5b48a1=_0x51fb24;document[_0x5b48a1(0x174)](_0x5b48a1(0x22f))[_0x5b48a1(0x17a)]='';}function destroyForm(_0x501e54){const _0x19facc=_0x51fb24;document[_0x19facc(0x174)](_0x19facc(0x1cd)+_0x501e54)['innerHTML']='',document[_0x19facc(0x174)](_0x19facc(0x16b)+_0x501e54)[_0x19facc(0x193)]='col-12',document['getElementById'](_0x19facc(0x1cd)+_0x501e54)[_0x19facc(0x193)]='';}function destroyModal(_0x41b70c){const _0x5d64da=_0x51fb24;document[_0x5d64da(0x20c)]('#'+_0x41b70c+_0x5d64da(0x1a4))[_0x5d64da(0x1b6)]();}async function processModal(_0x59e11c,_0x225ed0){const _0xda8c19=_0x51fb24;let _0x7b369a=modalRemovePros[_0x59e11c],_0x53695d=_0x7b369a[_0xda8c19(0x24b)](function(_0x1773ae,_0x11b731){return _0x1773ae['index']-_0x11b731['index'];});_0x53695d[_0xda8c19(0x1e6)](_0x367c9e=>{const _0x26534f=_0xda8c19;let _0x24033b=[];Object[_0x26534f(0x241)](_0x367c9e)['forEach'](_0x477070=>{const _0x31f364=_0x26534f;typeof _0x367c9e[_0x477070]===_0x31f364(0x1f9)&&Object[_0x31f364(0x241)](_0x367c9e[_0x477070])[_0x31f364(0x1e6)](_0x3e6a99=>{const _0xa48c9c=_0x31f364;_0x3e6a99=='id'?_0x24033b[_0xa48c9c(0x1a6)](_0x225ed0):_0x24033b[_0xa48c9c(0x1a6)](_0x367c9e[_0x477070][_0x3e6a99]);});}),this[_0x367c9e['func']](..._0x24033b);});}function toggleMaxMin(_0x5449d4){const _0x3aa7cc=_0x51fb24;toggleClasses(_0x3aa7cc(0x25a)+_0x5449d4,_0x3aa7cc(0x17e)),toggleClasses(_0x3aa7cc(0x179)+_0x5449d4,'col-lg-12\x20col-md-12');}function toggleClasses(_0x145915,_0x221ba0){const _0x206012=_0x51fb24;let _0x36c197,_0x19abed;if(arguments[_0x206012(0x24a)]!==toggleClasses['length'])throw new Error(_0x206012(0x24f));if(typeof _0x221ba0!==_0x206012(0x221)||_0x221ba0[_0x206012(0x24a)]===0x0)throw new Error(_0x206012(0x170));_0x19abed=_0x221ba0[_0x206012(0x238)](/\s/);if(typeof _0x145915!=='string'||_0x145915['length']===0x0)throw new Error(_0x206012(0x16d));_0x36c197=document[_0x206012(0x20c)](_0x145915);if(_0x36c197===null)throw new Error('No\x20HTML-element\x20with\x20selector\x20'+_0x145915+_0x206012(0x1a0));return _0x19abed[_0x206012(0x1e6)](function(_0x5d2ac1,_0x5b69d3){const _0x3e477d=_0x206012;_0x36c197[_0x3e477d(0x193)][_0x3e477d(0x1c1)](_0x5d2ac1)===-0x1?_0x36c197[_0x3e477d(0x1bf)][_0x3e477d(0x240)](_0x5d2ac1):_0x36c197[_0x3e477d(0x1bf)][_0x3e477d(0x1b6)](_0x5d2ac1);}),!![];}async function search(_0x28a8e8){const _0x127858=_0x51fb24;let _0xfb9602=fillKeys(_0x28a8e8,_0x127858(0x218)),_0x5b7bf7=await searchHeader(_0xfb9602['clas']),_0x247cea=await constructHeader(_0x5b7bf7);document['getElementById'](_0xfb9602[_0x127858(0x1e4)]+'_tab')[_0x127858(0x17a)]='<thead><tr>'+_0x247cea+_0x127858(0x189),dataTable[_0xfb9602[_0x127858(0x1e4)]]=await searchData(_0xfb9602);if(!_0xfb9602[_0x127858(0x1df)](_0x127858(0x191)))return;return _0xfb9602['recBut']=='yes'?await addRecordButton(_0xfb9602['tab'],_0xfb9602[_0x127858(0x20e)],''):![];}const fillKeys=(_0x3648c0,_0x51779c)=>{const _0x52a27c=_0x51fb24;let _0x28d6bb=_0x51779c[_0x52a27c(0x238)](','),_0x1d0916={};return[..._0x28d6bb]['forEach'](_0x3ee3b8=>{const _0x2ef727=_0x52a27c;!_0x3648c0[_0x2ef727(0x1df)](_0x3ee3b8)?_0x1d0916[_0x3ee3b8]='':_0x1d0916[_0x3ee3b8]=_0x3648c0[_0x3ee3b8];}),_0x1d0916;};function searchHeader(_0x571ea5){return new Promise(_0x13d6dc=>{const _0x4e8033=_0x2fae;$[_0x4e8033(0x1b5)](_0x4e8033(0x248)+_0x571ea5,function(_0x11835e){var _0x36522d=JSON['parse'](_0x11835e);_0x13d6dc(_0x36522d);});});}function constructHeader(_0x3769f0){return new Promise(_0x1f69e9=>{var _0x235ace='';$['each'](_0x3769f0,function(_0x468b76,_0x6a320c){const _0x17283b=_0x2fae;typeof _0x6a320c===_0x17283b(0x1f9)&&$['each'](_0x6a320c,function(_0x22df70,_0x34f79b){const _0x5f3576=_0x17283b;_0x22df70==_0x5f3576(0x235)&&(_0x235ace+=_0x5f3576(0x1c3)+_0x34f79b+'</th>');});}),_0x1f69e9(_0x235ace);});}function searchData(_0x492f26){const _0x2fbac4=_0x51fb24;let _0x317c7b='es',_0x13915f={};_0x13915f[_0x2fbac4(0x190)]=_0x2fbac4(0x1b0)+_0x492f26[_0x2fbac4(0x232)]+'\x22></i></a>\x20',_0x13915f[_0x2fbac4(0x1ea)]=_0x2fbac4(0x251)+_0x492f26[_0x2fbac4(0x232)]+_0x2fbac4(0x242),_0x13915f[_0x2fbac4(0x1fa)]='\x20<a\x20href=\x22#\x22\x20id=\x22btnDetail\x22><i\x20class=\x22fas\x20fa-passport\x20'+_0x492f26['icoSize']+_0x2fbac4(0x186),_0x13915f[_0x2fbac4(0x1c6)]=_0x2fbac4(0x21c)+_0x492f26[_0x2fbac4(0x232)]+_0x2fbac4(0x213),_0x13915f['ok']=_0x2fbac4(0x21a),_0x13915f['noOk']=_0x2fbac4(0x219);let _0x2edf2a='<form\x20id=\x22file.{clase}.{doctype}\x22\x20\x20method=\x22post\x22\x20enctype=\x22multipart/form-data\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22hidden\x22\x20id=\x22file.{clase}.{doctype}.clase\x22\x20value=\x27{clase}\x27>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22hidden\x22\x20id=\x22file.{clase}.{doctype}.clase.id\x22\x20value=\x27{clase.id}\x27\x20required>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22hidden\x22\x20id=\x22file.{clase}.{doctype}.docType\x22\x20value=\x27{doctype}\x27>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22hidden\x22\x20id=\x22file.{clase}.{doctype}.code\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22hidden\x22\x20id=\x22file.{clase}.{doctype}.doc\x22\x20value=\x27{doc}\x27>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22input-group\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22custom-file\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22file\x22\x20class=\x22custom-file-input\x22\x20id=\x22file.{clase}.{doctype}.name\x22\x20accept=\x22image/jpeg,application/pdf\x22\x20title=\x22{title}\x22\x20placeholder=\x22Subir\x20Archivo\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20id=\x22file.{clase}.{doctype}.label\x22\x20class=\x22custom-file-label\x22\x20for=\x22file.{clase}.{doctype}.name\x22>Seleccionar\x20Archivo</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22input-group-append\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22input-group-text\x20btn-success\x22\x20id=\x22file.{clase}.{doctype}.upload\x22>Subir</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</form>',_0x24acbf=_0x2fbac4(0x1bc),_0x1731fe=_0x492f26[_0x2fbac4(0x20e)][_0x2fbac4(0x1e8)]('.','-'),_0x1ea9c0=_0x2fbac4(0x25c)+_0x1731fe+_0x2fbac4(0x18b);_0x492f26[_0x2fbac4(0x16e)]=='no'&&(_0x1ea9c0=_0x2fbac4(0x25c)+_0x1731fe+_0x2fbac4(0x229));let _0x184f99={};_0x184f99[_0x2fbac4(0x1cf)]={'url':_0x2fbac4(0x228),'type':'get','data':{'clase':_0x492f26[_0x2fbac4(0x20e)],'sfields':_0x492f26[_0x2fbac4(0x237)],'svalues':_0x492f26[_0x2fbac4(0x1ae)]},'dataType':'JSON'},_0x184f99['processing']=!![],_0x184f99[_0x2fbac4(0x220)]=!![],_0x184f99[_0x2fbac4(0x173)]=0xf,_0x184f99[_0x2fbac4(0x21d)]=![],_0x184f99[_0x2fbac4(0x254)]={'url':_0x2fbac4(0x1d0)+_0x317c7b+_0x2fbac4(0x1d2)},_0x184f99[_0x2fbac4(0x1f5)]=!![],_0x184f99['dom']=_0x1ea9c0;_0x492f26[_0x2fbac4(0x1ca)]!=''&&(_0x184f99[_0x2fbac4(0x1d5)]={'sSearch':_0x492f26['iniSearch']});if(_0x492f26[_0x2fbac4(0x1f0)]!=''){let _0x57cb53=[],_0x21c944=_0x492f26[_0x2fbac4(0x1f0)][_0x2fbac4(0x238)](',');_0x21c944['forEach'](_0x55021e=>{const _0x2b8736=_0x2fbac4;let _0x3b7885={'targets':_0x55021e*0x1,'visible':![],'searchable':![]};_0x57cb53[_0x2b8736(0x1a6)](_0x3b7885);}),_0x184f99[_0x2fbac4(0x1db)]=_0x57cb53;}let _0x5b4efc={};if(_0x492f26[_0x2fbac4(0x243)]!=''){let _0x37faaf='',_0x29c1df=_0x492f26[_0x2fbac4(0x243)][_0x2fbac4(0x238)](',');for(let _0x33a51d=0x0;_0x33a51d<_0x29c1df[_0x2fbac4(0x24a)];_0x33a51d++){_0x37faaf+=_0x13915f[_0x29c1df[_0x33a51d]],_0x5b4efc[_0x29c1df[_0x33a51d]]=0x1;}if(_0x184f99['columnDefs']){let _0x3d7e3={'targets':-0x1,'data':null,'defaultContent':_0x37faaf};_0x184f99[_0x2fbac4(0x1db)][_0x2fbac4(0x1a6)](_0x3d7e3);}else _0x184f99['columnDefs']=[{'targets':-0x1,'data':null,'defaultContent':_0x37faaf}];}if(!isEmpty(_0x492f26[_0x2fbac4(0x236)])){let _0xf4cb2d='',_0x3ee44b=_0x492f26[_0x2fbac4(0x236)][_0x2fbac4(0x247)],_0x420018=_0x492f26[_0x2fbac4(0x236)][_0x2fbac4(0x214)];for(let _0x6a7b00 in _0x420018){let _0x25d35b='';_0x420018[_0x6a7b00]!=''&&(_0x25d35b=_0x13915f[_0x420018[_0x6a7b00]]),_0xf4cb2d+=_0x2fbac4(0x230)+_0x3ee44b+_0x2fbac4(0x1a9)+_0x6a7b00+_0x2fbac4(0x23f)+_0x25d35b+_0x2fbac4(0x239);}if(_0x184f99[_0x2fbac4(0x1db)]){let _0xa6e5cf={'targets':-0x1,'createdCell':Function(_0x2fbac4(0x183),_0xf4cb2d)};_0x184f99['columnDefs'][_0x2fbac4(0x1a6)](_0xa6e5cf);}else _0x184f99[_0x2fbac4(0x1db)]=[{'targets':-0x1,'createdCell':Function(_0x2fbac4(0x183),_0xf4cb2d)}];}return!isEmpty(_0x492f26[_0x2fbac4(0x198)])&&(_0x184f99[_0x2fbac4(0x204)]=function(_0x29d80b,_0x5364c7){const _0x41a51a=_0x2fbac4;_0x492f26[_0x41a51a(0x198)][_0x41a51a(0x1e6)](_0x41a53f=>{const _0x85a351=_0x41a51a;let _0x94a03e=_0x2edf2a,_0x501a59='',_0x2dbee2='',_0x348723='';_0x41a53f['clase.id']?_0x501a59=_0x41a53f['clase.id']:_0x501a59=_0x5364c7[_0x41a53f[_0x85a351(0x197)]];if(_0x41a53f[_0x85a351(0x224)]){let _0xddbe24=_0x41a53f[_0x85a351(0x224)],_0x3d3b60=_0x5364c7[_0x41a53f[_0x85a351(0x17c)]];_0x2dbee2=(_0xddbe24+_0x3d3b60)[_0x85a351(0x1dd)](),_0x348723=_0x2dbee2;}else _0x2dbee2=_0x5364c7[_0x41a53f[_0x85a351(0x17c)]][_0x85a351(0x1dd)]();_0x94a03e=_0x94a03e[_0x85a351(0x176)](/{clase}/g,_0x41a53f['clase']),_0x94a03e=_0x94a03e[_0x85a351(0x176)](/{clase.id}/g,_0x501a59),_0x94a03e=_0x94a03e[_0x85a351(0x176)](/{doctype}/g,_0x2dbee2),_0x94a03e=_0x94a03e[_0x85a351(0x176)](/{doc}/g,_0x5364c7[_0x41a53f[_0x85a351(0x197)]]);let _0x1c6eaf=_0x24acbf;_0x1c6eaf=_0x1c6eaf[_0x85a351(0x176)](/{clase}/g,_0x41a53f['clase']),_0x1c6eaf=_0x1c6eaf[_0x85a351(0x176)](/{doctype}/g,_0x2dbee2),$(_0x85a351(0x20b)+_0x41a53f[_0x85a351(0x24c)]+')',_0x29d80b)[_0x85a351(0x201)](_0x94a03e),$(_0x85a351(0x20b)+_0x41a53f[_0x85a351(0x1b3)]+')',_0x29d80b)[_0x85a351(0x201)](_0x1c6eaf),setTimeout(function(){const _0x3dae47=_0x85a351;fileOnClickEventListener('file.'+_0x41a53f[_0x3dae47(0x1d7)]+'.'+_0x2dbee2),fileOnChangeEventListener('file.'+_0x41a53f[_0x3dae47(0x1d7)]+'.'+_0x2dbee2),getFiles(_0x41a53f[_0x3dae47(0x1d7)],_0x501a59,_0x348723);},0x3e8);});}),new Promise(_0x50428e=>{const _0x2f801f=_0x2fbac4;var _0x2af7a3=_0x492f26['tab']['replace'](/\./g,'\x5c.');$['fn'][_0x2f801f(0x187)][_0x2f801f(0x23a)]('#'+_0x2af7a3+_0x2f801f(0x1a8))&&$('#'+_0x2af7a3+_0x2f801f(0x1a8))[_0x2f801f(0x187)]()[_0x2f801f(0x257)]();var _0x1b2120=$('#'+_0x2af7a3+'_tab')[_0x2f801f(0x187)](_0x184f99);_0x492f26['buttons']!=''?(_0x5b4efc[_0x2f801f(0x190)]==0x1&&$('#'+_0x2af7a3+'_tab\x20tbody')['on'](_0x2f801f(0x252),_0x2f801f(0x1a3),function(){const _0x350239=_0x2f801f;let _0x260523=dataTable[_0x492f26[_0x350239(0x20e)]][_0x350239(0x1b8)]($(this)['parents']('tr'))['data'](),_0x1a4c29='';_0x492f26[_0x350239(0x203)]!=''?_0x1a4c29=_0x260523[_0x492f26[_0x350239(0x203)]*0x1]:_0x1a4c29='';;loadRecord(clas,_0x350239(0x185),_0x260523[_0x492f26[_0x350239(0x18d)]*0x1],_0x492f26[_0x350239(0x23d)],_0x1a4c29);}),_0x5b4efc[_0x2f801f(0x1ea)]==0x1&&$('#'+_0x2af7a3+_0x2f801f(0x231))['on']('click','[id*=btnDelete]',async function(){const _0x31bc07=_0x2f801f;let _0x35a24e=dataTable[_0x492f26[_0x31bc07(0x20e)]][_0x31bc07(0x1b8)]($(this)[_0x31bc07(0x200)]('tr'))['data']();alertModalProcess(_0x31bc07(0x1cc),_0x492f26[_0x31bc07(0x20e)],_0x35a24e[_0x492f26[_0x31bc07(0x18d)]*0x1]);})):$('#'+_0x2af7a3+_0x2f801f(0x231))['on'](_0x2f801f(0x252),'tr',function(){const _0xf7cefe=_0x2f801f;var _0x12acd6=dataTable[_0x492f26['clas']][_0xf7cefe(0x1b8)](this)[_0xf7cefe(0x24e)]();let _0x1334a1='';_0x492f26['keyMas']!=''?_0x1334a1=_0x12acd6[_0x492f26[_0xf7cefe(0x203)]*0x1]:_0x1334a1='';;_0x492f26[_0xf7cefe(0x18d)]==''&&(_0x492f26[_0xf7cefe(0x18d)]=0x0);let _0x31f1e1='';_0x492f26['desMas']!=''?_0x31f1e1=_0x12acd6[_0x492f26[_0xf7cefe(0x23c)]*0x1]:_0x31f1e1='';;loadForm(_0x492f26[_0xf7cefe(0x20e)],_0xf7cefe(0x194),_0x12acd6[_0x492f26[_0xf7cefe(0x18d)]*0x1],_0x492f26[_0xf7cefe(0x23d)],_0x1334a1,_0x31f1e1);}),_0x50428e(_0x1b2120);});}function addRecordButton(_0x2e0847,_0x2c9361,_0x2c7768){return new Promise(_0x50e751=>{const _0x2e20f3=_0x2fae;dataTable[_0x2e0847]['on'](_0x2e20f3(0x1ab),function(_0x2e8139){const _0x24423a=_0x2e20f3;let _0x512e1e=![],_0x1b6628=_0x2c9361[_0x24423a(0x1e8)]('.','-');if(!document[_0x24423a(0x174)](_0x2c9361+_0x24423a(0x19e))){let _0x59b556='<a\x20href=\x22#\x22\x20id=\x27'+_0x2c9361+_0x24423a(0x1d9);document[_0x24423a(0x20c)]('.'+_0x1b6628+_0x24423a(0x17d))[_0x24423a(0x25f)](_0x24423a(0x202),_0x59b556),_0x512e1e=!![];}_0x50e751(_0x512e1e);});});}function isEmpty(_0x145680){for(var _0x21fe4e in _0x145680){if(_0x145680['hasOwnProperty'](_0x21fe4e))return![];}return!![];}async function record(_0x3bf994,_0xea74e9){let _0x19c48f={'clase':_0x3bf994,'id':_0xea74e9},_0x4adde3=await getRecord(_0x19c48f);await fillRecord(_0x4adde3);}async function getRecord(_0x444efe){const _0x5e6e4c=_0x51fb24;return await(await fetch('/record.get',{'method':_0x5e6e4c(0x1fc),'headers':{'Content-Type':_0x5e6e4c(0x16f)},'body':JSON[_0x5e6e4c(0x1ec)](_0x444efe)}))[_0x5e6e4c(0x1ef)]();}async function fillRecord(_0x30f98c){const _0x1ca9ce=_0x51fb24;let _0x548c72=JSON['parse'](_0x30f98c);Object[_0x1ca9ce(0x241)](_0x548c72)[_0x1ca9ce(0x1e6)](_0x1e2349=>{const _0x83df5d=_0x1ca9ce;document[_0x83df5d(0x174)](_0x1e2349)&&(document[_0x83df5d(0x174)](_0x1e2349)['value']=_0x548c72[_0x1e2349]),typeof _0x548c72[_0x1e2349]===_0x83df5d(0x1f9)&&_0x548c72[_0x1e2349]!=null&&Object[_0x83df5d(0x241)](_0x548c72[_0x1e2349])[_0x83df5d(0x1e6)](_0x5a9edf=>{const _0x4be392=_0x83df5d;document[_0x4be392(0x174)](_0x1e2349+'.'+_0x5a9edf)&&(document[_0x4be392(0x174)](_0x1e2349+'.'+_0x5a9edf)['value']=_0x548c72[_0x1e2349][_0x5a9edf]),typeof _0x548c72[_0x1e2349][_0x5a9edf]===_0x4be392(0x1f9)&&_0x548c72[_0x1e2349][_0x5a9edf]!=null&&Object[_0x4be392(0x241)](_0x548c72[_0x1e2349][_0x5a9edf])[_0x4be392(0x1e6)](_0x525a06=>{const _0x2816b5=_0x4be392;document[_0x2816b5(0x174)](_0x1e2349+'.'+_0x5a9edf+'.'+_0x525a06)&&(document[_0x2816b5(0x174)](_0x1e2349+'.'+_0x5a9edf+'.'+_0x525a06)['value']=_0x548c72[_0x1e2349][_0x5a9edf][_0x525a06]);});});});}async function saveRecordAlert(_0x24fed5){const _0x1957ac=_0x51fb24;let _0x3db67a=await getRecordElements(_0x24fed5);if(_0x3db67a==![])return![];try{const _0x282212=await Swal[_0x1957ac(0x256)]({'title':_0x1957ac(0x172),'text':_0x1957ac(0x260),'icon':_0x1957ac(0x1a1),'showCancelButton':!![],'confirmButtonColor':_0x1957ac(0x25d),'cancelButtonColor':_0x1957ac(0x1eb),'confirmButtonText':_0x1957ac(0x18f)});return _0x282212[_0x1957ac(0x1bd)]===!![]?await save(_0x3db67a):![];}catch(_0x75520e){return console[_0x1957ac(0x19b)](_0x1957ac(0x18a),_0x75520e),![];}}async function saveRecord(_0x515c59){let _0x220519=await getRecordElements(_0x515c59);if(_0x220519==![])return![];return await save(_0x220519);}async function saveClassAlert(_0x39d451,_0x467138){const _0x3c4bdf=_0x51fb24;let _0x522cdf=await getClassElements(_0x39d451,_0x467138);if(_0x522cdf==![])return![];try{const _0x5a44d8=await Swal[_0x3c4bdf(0x256)]({'title':_0x3c4bdf(0x172),'text':_0x3c4bdf(0x260),'icon':_0x3c4bdf(0x1a1),'showCancelButton':!![],'confirmButtonColor':'#3085d6','cancelButtonColor':'#d33','confirmButtonText':_0x3c4bdf(0x18f)});return _0x5a44d8[_0x3c4bdf(0x1bd)]===!![]?await save(_0x522cdf):![];}catch(_0x5dbe74){return console[_0x3c4bdf(0x19b)](_0x3c4bdf(0x18a),_0x5dbe74),![];}}async function saveClass(_0x338d1d,_0x964783){let _0x48f4df=await getClassElements(_0x338d1d,_0x964783);if(_0x48f4df==![])return![];return await save(_0x48f4df);}async function save(_0x537552){const _0x4ca325=_0x51fb24;return await(await fetch(_0x4ca325(0x1e2),{'method':'post','headers':{'Content-Type':_0x4ca325(0x16f)},'body':JSON[_0x4ca325(0x1ec)](_0x537552)}))[_0x4ca325(0x1ef)]();}async function set(_0x78c41){const _0x129233=_0x51fb24;return await(await fetch(_0x129233(0x184),{'method':_0x129233(0x1fc),'headers':{'Content-Type':'application/json'},'body':JSON[_0x129233(0x1ec)](_0x78c41)}))['json']();}async function removeRecord(_0xc6d43,_0x4f1b27){var _0x744766={};return _0x744766['clase']=_0xc6d43,_0x744766['id']=_0x4f1b27,await remove(_0x744766);}async function remove(_0x3c9c55){const _0x1f3c23=_0x51fb24;return await(await fetch(_0x1f3c23(0x206),{'method':_0x1f3c23(0x1fc),'headers':{'Content-Type':'application/json'},'body':JSON[_0x1f3c23(0x1ec)](_0x3c9c55)}))['json']();}async function getRecordElements(_0x53ec6e){const _0x34e875=_0x51fb24;let _0x1a1fe7=!![],_0x111b8a={};return _0x111b8a[_0x34e875(0x1d7)]=_0x53ec6e,[...document['getElementById'](_0x53ec6e)['elements']][_0x34e875(0x1e6)](_0x4720ee=>{const _0x17ddcd=_0x34e875;(_0x4720ee['tagName']===_0x17ddcd(0x16c)||_0x4720ee[_0x17ddcd(0x1f8)]===_0x17ddcd(0x246)||_0x4720ee[_0x17ddcd(0x1f8)]===_0x17ddcd(0x1f6))&&(!document[_0x17ddcd(0x174)](_0x4720ee['id'])[_0x17ddcd(0x205)]()&&(title=document[_0x17ddcd(0x174)](_0x4720ee['id'])[_0x17ddcd(0x215)],_0x1a1fe7=![]),_0x4720ee['id'][_0x17ddcd(0x238)]('.')['length']>0x1&&(_0x111b8a[_0x4720ee['id']['replace'](_0x53ec6e+'.','')]=document[_0x17ddcd(0x174)](_0x4720ee['id'])[_0x17ddcd(0x1bd)]));}),!_0x1a1fe7==![]?_0x111b8a:![];}async function getClassElements(_0x374e72,_0x267f68){const _0x4eb060=_0x51fb24;let _0x4ba8c7=!![],_0x7088eb={};return _0x7088eb[_0x4eb060(0x1d7)]=_0x374e72,[...document[_0x4eb060(0x207)](_0x267f68)][_0x4eb060(0x1e6)](_0x4f40df=>{const _0xffa0ee=_0x4eb060;(_0x4f40df[_0xffa0ee(0x1f8)]==='INPUT'||_0x4f40df[_0xffa0ee(0x1f8)]==='SELECT'||_0x4f40df['tagName']==='TEXTAREA')&&(!document['getElementById'](_0x4f40df['id'])[_0xffa0ee(0x205)]()&&(title=document[_0xffa0ee(0x174)](_0x4f40df['id'])['title'],swal(_0xffa0ee(0x1e3),title,_0xffa0ee(0x1a1)),_0x4ba8c7=![]),_0x4f40df['id'][_0xffa0ee(0x238)]('.')[_0xffa0ee(0x24a)]>0x1&&(_0x7088eb[_0x4f40df['id']['replace'](_0x374e72+'.','')]=document[_0xffa0ee(0x174)](_0x4f40df['id'])[_0xffa0ee(0x1bd)]));}),!_0x4ba8c7==![]?_0x7088eb:![];}async function getCollection(_0x4edb6e,_0x40c7ca,_0x2f5c76,_0x10e96d,_0x277765,_0x43e2a4){const _0xcdd4bd=_0x51fb24;let _0x4f508e={'clase':_0x4edb6e,'key':_0x40c7ca,'id':_0x2f5c76,'fds':_0x10e96d,'order':_0x277765,'dir':_0x43e2a4};return await(await fetch(_0xcdd4bd(0x177),{'method':_0xcdd4bd(0x1fc),'headers':{'Content-Type':'application/json'},'body':JSON['stringify'](_0x4f508e)}))['json']();;}async function getCollectionPair(_0x503083,_0x2c1c09,_0x490879){const _0x52492e=_0x51fb24;let _0x431c27={'clase':_0x503083,'key':_0x2c1c09,'val':_0x490879};return await(await fetch('/collection.pair',{'method':_0x52492e(0x1fc),'headers':{'Content-Type':_0x52492e(0x16f)},'body':JSON[_0x52492e(0x1ec)](_0x431c27)}))[_0x52492e(0x1ef)]();;}async function fillSelect(_0x57b824,_0x3eefe7){const _0x3ecb79=_0x51fb24;let _0x525216=JSON[_0x3ecb79(0x1de)](_0x57b824),_0x478d6a=document[_0x3ecb79(0x174)](_0x3eefe7);_0x478d6a['length']=0x1,Object[_0x3ecb79(0x241)](_0x525216)['forEach'](_0x12f97a=>{const _0x13c069=_0x3ecb79;var _0x273125=document[_0x13c069(0x1e5)](_0x13c069(0x196));_0x273125['value']=_0x12f97a,typeof _0x273125['textContent']===_0x13c069(0x171)?_0x273125[_0x13c069(0x21b)]=_0x525216[_0x12f97a]:_0x273125[_0x13c069(0x21f)]=_0x525216[_0x12f97a],_0x478d6a['appendChild'](_0x273125);});}async function getCollectionFiltered(_0x3a7476,_0x20641f,_0x417d96,_0x30adca,_0x3abc41){const _0x3ca317=_0x51fb24;let _0x150c08={'clase':_0x3a7476,'key':_0x20641f,'val':_0x417d96,'keys':_0x30adca,'values':_0x3abc41};return await(await fetch(_0x3ca317(0x178),{'method':_0x3ca317(0x1fc),'headers':{'Content-Type':'application/json'},'body':JSON['stringify'](_0x150c08)}))[_0x3ca317(0x1ef)]();;}async function getCollectionCount(_0x40e9e0,_0x100fe2,_0x2401ff){const _0x5edb4e=_0x51fb24;let _0x2f623a={'clase':_0x40e9e0,'keys':_0x100fe2,'vals':_0x2401ff};return await(await fetch('/collection.count',{'method':_0x5edb4e(0x1fc),'headers':{'Content-Type':'application/json'},'body':JSON[_0x5edb4e(0x1ec)](_0x2f623a)}))[_0x5edb4e(0x1ef)]();;}async function getQueryCollection(_0x5a8326){const _0x4d4a85=_0x51fb24;let _0x3aa424={'sql':_0x5a8326};return await(await fetch('/collection.getQuery',{'method':_0x4d4a85(0x1fc),'headers':{'Content-Type':_0x4d4a85(0x16f)},'body':JSON[_0x4d4a85(0x1ec)](_0x3aa424)}))[_0x4d4a85(0x1ef)]();;}function formCheckElements(_0x2f9f05,_0x5c3baf){const _0x2cf6f=_0x51fb24;let _0x139ca0=!![];return[...document[_0x2cf6f(0x20c)]('#'+_0x2f9f05)['elements']][_0x2cf6f(0x1e6)](_0x18a1a8=>{const _0x2ad8c8=_0x2cf6f;(_0x18a1a8[_0x2ad8c8(0x1f8)]===_0x2ad8c8(0x16c)||_0x18a1a8[_0x2ad8c8(0x1f8)]===_0x2ad8c8(0x246)||_0x18a1a8['tagName']==='TEXTAREA')&&(!document[_0x2ad8c8(0x174)](_0x18a1a8['id'])[_0x2ad8c8(0x205)]()&&(_0x139ca0=![]));}),_0x139ca0===!![]&&(document[_0x2cf6f(0x174)](_0x5c3baf)[_0x2cf6f(0x193)]='fas\x20fa-check-circle'),_0x139ca0;}function formCheckGrid(_0x4d893e,_0x1ec153){return new Promise(_0x161f34=>{dataTable[_0x4d893e]['on']('draw',function(_0x613791){const _0x1d2043=_0x2fae;let _0xbadeb9=![];dataTable[_0x4d893e][_0x1d2043(0x20f)][_0x1d2043(0x1da)]()[_0x1d2043(0x1a2)]>0x0?(document[_0x1d2043(0x174)](_0x1ec153)['className']=_0x1d2043(0x244),_0xbadeb9=!![]):_0xbadeb9=![],_0x161f34(_0xbadeb9);});});}function fileFormCheckGrid(_0x87ff2d,_0x68af2f,_0x42b485){dataTable[_0x87ff2d]['on']('draw',function(_0x486b44){const _0x41c98c=_0x2fae;dataTable[_0x87ff2d][_0x41c98c(0x20f)]['info']()[_0x41c98c(0x1a2)]>0x0&&setTimeout(function(){const _0x29c671=_0x41c98c;let _0x4bcf37=!![];return dataTable[_0x87ff2d][_0x29c671(0x259)]()[_0x29c671(0x1fb)](function(){const _0x220f25=_0x29c671;let _0x4b8190=this[_0x220f25(0x24e)]();_0x68af2f['forEach'](_0x53dbd9=>{const _0x1aabb6=_0x220f25;if(_0x4bcf37==![])return;if(_0x53dbd9[_0x1aabb6(0x224)]){let _0x415e7d=_0x53dbd9[_0x1aabb6(0x224)],_0x23bb1a=_0x4b8190[_0x53dbd9[_0x1aabb6(0x17c)]];docType=(_0x415e7d+_0x23bb1a)[_0x1aabb6(0x1dd)](),typeDoc=docType;}else docType=_0x4b8190[_0x53dbd9[_0x1aabb6(0x17c)]][_0x1aabb6(0x1dd)]();!document[_0x1aabb6(0x174)](_0x1aabb6(0x1c4)+_0x53dbd9['clase']+'.'+docType+_0x1aabb6(0x17f))?_0x4bcf37=![]:document['getElementById'](_0x1aabb6(0x1c4)+_0x53dbd9['clase']+'.'+docType+_0x1aabb6(0x17f))['value']==''&&(_0x4bcf37=![]);});}),_0x4bcf37==!![]&&(document['getElementById'](_0x42b485)['className']=_0x29c671(0x244)),_0x4bcf37;},0x7d0);});}function formCheckElement(_0x36b6d8,_0x3e25d2){const _0x46a4a4=_0x51fb24;let _0x5cc977=![];return document[_0x46a4a4(0x174)](_0x36b6d8)['value']!=null&&(document[_0x46a4a4(0x174)](_0x3e25d2)['className']=_0x46a4a4(0x244),_0x5cc977=!![]),_0x5cc977;}function classCheckElements(_0x42f126,_0x2295f8){const _0x42e5df=_0x51fb24;let _0x30802a=!![];return[...document[_0x42e5df(0x207)](_0x42f126)][_0x42e5df(0x1e6)](_0x594aab=>{const _0x649816=_0x42e5df;(_0x594aab['tagName']===_0x649816(0x16c)||_0x594aab[_0x649816(0x1f8)]===_0x649816(0x246)||_0x594aab[_0x649816(0x1f8)]===_0x649816(0x1f6))&&(!document[_0x649816(0x174)](_0x594aab['id'])[_0x649816(0x205)]()&&(_0x30802a=![]));}),_0x30802a===!![]&&(document[_0x42e5df(0x174)](_0x2295f8)[_0x42e5df(0x193)]=_0x42e5df(0x244)),_0x30802a;}async function fileUploadAlert(_0xecfc51){const _0x533da4=_0x51fb24;let _0x3d096d=await getFormFileElements(_0xecfc51);if(_0x3d096d==![])return![];try{const _0x134156=await Swal[_0x533da4(0x256)]({'title':'¡Atención!','text':_0x533da4(0x19c),'icon':_0x533da4(0x1a1),'showCancelButton':!![],'confirmButtonColor':'#3085d6','cancelButtonColor':_0x533da4(0x1eb),'confirmButtonText':_0x533da4(0x18f)});return _0x134156[_0x533da4(0x1bd)]===!![]?await upload(_0x3d096d):![];}catch(_0x5c72e7){return console[_0x533da4(0x19b)](_0x533da4(0x18a),_0x5c72e7),![];}}async function fileUpload(_0x1ddee1){let _0x2e5cb7=await getFormFileElements(_0x1ddee1),_0x2c6281=getFormFileData(_0x1ddee1,_0x2e5cb7),_0x19bf70=await upload(_0x2c6281);return _0x19bf70['status'];}async function upload(_0x4c3e30){const _0x321289=_0x51fb24;return await await fetch(_0x321289(0x22d),{'method':_0x321289(0x1c0),'body':_0x4c3e30});}async function fileRemoveAlert(_0x33d251,_0xbd501e){const _0x396fae=_0x51fb24;var _0x494547={};_0x494547[_0x396fae(0x1d7)]=_0x33d251,_0x494547['id']=_0xbd501e;try{const _0x15e0dc=await Swal[_0x396fae(0x256)]({'title':'¡Atención!','text':_0x396fae(0x1cb),'icon':_0x396fae(0x1a1),'showCancelButton':!![],'confirmButtonColor':_0x396fae(0x25d),'cancelButtonColor':'#d33','confirmButtonText':_0x396fae(0x18f)});return _0x15e0dc['value']===!![]?await remove(_0x494547):![];}catch(_0x12b4bf){return console[_0x396fae(0x19b)]('error:',_0x12b4bf),![];}}async function fileRemove(_0x17c173){const _0x5921a1=_0x51fb24;let _0x4131c9={'fileName':_0x17c173};return await(await fetch(_0x5921a1(0x253),{'method':_0x5921a1(0x1fc),'headers':{'Content-Type':_0x5921a1(0x16f)},'body':JSON[_0x5921a1(0x1ec)](_0x4131c9)}))[_0x5921a1(0x1ef)]();}async function fileSearch(_0x4d6471,_0x1372d3){const _0x478a2b=_0x51fb24;let _0x146f4a={'pattern':_0x4d6471,'extension':_0x1372d3};return await(await fetch(_0x478a2b(0x1d8),{'method':_0x478a2b(0x1fc),'headers':{'Content-Type':'application/json'},'body':JSON[_0x478a2b(0x1ec)](_0x146f4a)}))['json']();}async function getFormFileElements(_0x3d5697){const _0x121876=_0x51fb24;let _0x5e6c10=!![],_0x945a68={};return _0x945a68[_0x121876(0x1d7)]=_0x3d5697,[...document[_0x121876(0x174)](_0x3d5697)['elements']]['forEach'](_0x29faef=>{const _0x1cc1c7=_0x121876;(_0x29faef[_0x1cc1c7(0x1f8)]===_0x1cc1c7(0x16c)||_0x29faef[_0x1cc1c7(0x1f8)]==='SELECT'||_0x29faef['tagName']===_0x1cc1c7(0x1f6))&&(!document[_0x1cc1c7(0x174)](_0x29faef['id'])[_0x1cc1c7(0x205)]()&&(title=document[_0x1cc1c7(0x174)](_0x29faef['id'])[_0x1cc1c7(0x215)],swal(_0x1cc1c7(0x1e3),title,_0x1cc1c7(0x1a1)),_0x5e6c10=![]),_0x29faef['id'][_0x1cc1c7(0x238)]('.')['length']>0x1&&(_0x945a68[_0x29faef['id'][_0x1cc1c7(0x176)](_0x3d5697+'.','')]=document[_0x1cc1c7(0x174)](_0x29faef['id'])[_0x1cc1c7(0x1bd)]));}),!_0x5e6c10==![]?_0x945a68:![];}function getFormFileData(_0x426589,_0x516951){const _0x5ccd24=_0x51fb24,_0x452a42=new FormData();Object[_0x5ccd24(0x241)](_0x516951)[_0x5ccd24(0x1e6)](_0x6f0006=>_0x452a42[_0x5ccd24(0x1ba)](_0x6f0006,_0x516951[_0x6f0006]));let _0x1cd89e=document['getElementById'](_0x426589+_0x5ccd24(0x192));return _0x452a42['append'](_0x5ccd24(0x19d),_0x1cd89e[_0x5ccd24(0x20a)][0x0]),_0x452a42;}function printFile(_0x5851af){const _0x35cba5=_0x51fb24;let _0x28decb=_0x35cba5(0x19a)+_0x5851af,_0xaa05cd=_0x5851af[_0x35cba5(0x238)]('.');if(_0xaa05cd[0x1][_0x35cba5(0x181)]()=='PDF'){let _0x2d4055=window[_0x35cba5(0x261)](_0x28decb,_0x35cba5(0x20d));_0x2d4055[_0x35cba5(0x210)]();}else _0xaa05cd[0x1]['toUpperCase']()==_0x35cba5(0x1d3)||tipoDoc==_0x35cba5(0x1f1)?printJS({'printable':_0x28decb,'documentTitle':_0x5851af,'type':'image'}):swal(_0x35cba5(0x1b7),_0x35cba5(0x25b),_0x35cba5(0x175));}function loadScript(_0x13346c){const _0x4ea5aa=_0x51fb24;let _0x17fb32=_0x4ea5aa(0x22b)+_0x13346c+_0x4ea5aa(0x1d1),_0x46033a=document[_0x4ea5aa(0x1e5)](_0x4ea5aa(0x250)),_0x497d3a=_0x17fb32[_0x4ea5aa(0x238)]('\x5c')[_0x4ea5aa(0x1f7)]()[_0x4ea5aa(0x238)]('/')['pop']();_0x46033a['id']=_0x497d3a,_0x46033a[_0x4ea5aa(0x227)]=_0x17fb32,_0x46033a['async']=![],_0x46033a[_0x4ea5aa(0x19f)]='module';if(document[_0x4ea5aa(0x174)](_0x497d3a)){const _0xc2a6e=document[_0x4ea5aa(0x174)](_0x497d3a);_0xc2a6e[_0x4ea5aa(0x1b6)]();}document[_0x4ea5aa(0x1e1)][_0x4ea5aa(0x1ba)](_0x46033a);}function loadStyle(_0x112ab0){const _0x24403b=_0x51fb24;let _0x414256=_0x112ab0['split']('\x5c')['pop']()[_0x24403b(0x238)]('/')[_0x24403b(0x1f7)]()['split']('.'),_0x5468e2=document[_0x24403b(0x1e5)](_0x24403b(0x1a5));_0x5468e2[_0x24403b(0x1ac)](_0x24403b(0x24d),_0x24403b(0x1c8)),_0x5468e2[_0x24403b(0x1ac)](_0x24403b(0x19f),_0x24403b(0x1fd)),_0x5468e2[_0x24403b(0x1ac)](_0x24403b(0x1c9),_0x112ab0);}
+//-------------------------------------------------------//
+// Author:Rodolfo Machon
+// Company:WebSoft, SA de CV
+// File Name: bsb.js
+// Created: 2021-03-12
+// Updates: 2021-03-12
+// Copyright - All Rights Reserved
+//-------------------------------------------------------//
+var sid = "";
+var component = {};
+var dataTable = {};
+var modalRemovePros = {};
+//-------------------------------------------------------//
+// PORTAL
+const route = (option) => fetch('/option?id='+option).then(function(response) {return response.text();}).then(function(body) {document.querySelector('body').innerHTML = body;loadScript(option)});
+const login = (data) => {
+    return new Promise((resolve, reject) => {
+		fetch('/login', {method: 'POST', headers: {'Content-Type': 'application/json'},body: JSON.stringify(data)}).then(response => response.json()).then(data => {
+			resolve(data.sid)
+		}).catch(error => 
+			console.log(error)
+		);
+    })
+}
+//-------------------------------------------------------//
+//-------------------------------------------------------//
+// DESK
+const nav = (dat) => {
+    return new Promise((resolve, reject) => {
+		fetch('/desk.nav', {method: 'POST', headers: {'Content-Type': 'application/json'},body: JSON.stringify(dat)}).then(response => response.json()).then(data => {
+			constructNav(data,dat);
+			resolve(true)
+		}).catch(error => 
+			console.log(error)
+		);
+    })
+}
+const session = (data) => {
+    return new Promise((resolve, reject) => {
+		fetch('/session', {method: 'POST', headers: {'Content-Type': 'application/json'},body: JSON.stringify(data)}).then(response => response.json()).then(data => {
+			resolve(data);
+		}).catch(error =>
+			console.log(error)
+		);
+    })
+}
+function showSideBar() {
+	let sideBar = document.querySelector(".sidebar");
+	sideBar.classList.toggle("active");
+	toggleClasses('#sideBar', 'collapse');
+	toggleClasses('#content', 'col-lg-12 col-md-12');
+}
+function loadRecordAlert(clas,comp,rId,desc,mId){
+	if(document.getElementById(clas)){
+		alertModal(desc+" Data Might Be Lost, Are You Sure To Continue ?","destroyLoadRecord('"+clas+"','"+comp+"','"+rId+"','"+desc+"','"+mId+"')");
+	}else{
+		loadRecord(clas,comp,rId,desc,mId);
+	}
+}
+async function loadAccordion(clas,comp,rId,desc,mId,dmas){
+	component[clas] = {'id':rId,'mid':mId,'inx':'','desc':desc,'dmas':dmas};
+	//console.log(clas);
+	//console.log(component[clas]);
+	destroyForm(clas);
+    await fetch('/option?id='+clas+'.accordion').then(function(response) {return response.text();}).then(function(body) {document.getElementById('col-accordion-'+clas).insertAdjacentHTML('beforeend', body);});	
+	loadScript(clas+"."+comp);
+	document.getElementById("col-table-"+clas).className = "col-lg-6 col-sm-12";
+	document.getElementById("col-accordion-"+clas).className = "col-lg-6 col-sm-12";
+	document.getElementById(clas+'.id.accordion').innerHTML = rId;
+    document.getElementById(clas+'.desc.accordion').innerHTML = dmas;	
+}
+async function loadForm(clas,comp,rId,desc,mId,dmas){
+	//console.log(clas);
+	component[clas] = {'id':rId,'mid':mId,'inx':'','desc':desc,'dmas':dmas};
+	//console.log(component[clas]);
+	destroyForm(clas);
+    await fetch('/option?id='+clas+'.form').then(function(response) {return response.text();}).then(function(body) {document.getElementById('col-accordion-'+clas).insertAdjacentHTML('beforeend', body);});	
+	loadScript(clas+"."+comp);
+	document.getElementById("col-table-"+clas).className = "col-lg-6 col-sm-12";
+	document.getElementById("col-accordion-"+clas).className = "col-lg-6 col-sm-12";
+	document.getElementById(clas+'.id.form').innerHTML = rId;
+    document.getElementById(clas+'.desc.form').innerHTML = dmas;	
+}
+async function loadRecordAccordion(clas,rId,inx,desc){
+	component[clas] = {'id':rId,'mid':'','inx':inx,'desc':desc};
+    document.getElementById(`accordion-header-${inx}`).innerHTML = desc;
+    await fetch('/option?id='+clas+'.record').then(function(response) {return response.text();}).then(function(body) {document.getElementById(`accordion-body-${inx}`).innerHTML = body;});
+    loadScript(clas+".record");		
+}
+async function loadSearchAccordion(clas,mId,inx,desc){
+	component[clas] = {'id':'','mid':mId,'inx':inx,'desc':desc};
+    document.getElementById(`accordion-header-${inx}`).innerHTML = desc;
+	//console.log(clas+'.search');
+    await fetch('/option?id='+clas+'.search').then(function(response) {return response.text();}).then(function(body) {document.getElementById(`accordion-body-${inx}`).innerHTML = body;});
+    loadScript(clas+".search");	
+}
+async function loadRecord(clas,comp,rId,desc,mId){
+	component[clas] = {'id':rId,'mid':mId,'com':comp,'desc':desc};
+	if(!document.getElementById(clas+'_modal')){
+		let record = `<div class="modal fade" id="${clas}_modal" tabindex="-1" aria-labelledby="${clas}ModalCenterTitle" aria-hidden="true">
+						<div class="modal-dialog modal-dialog-centered modal-lg">
+							<div class="modal-content">
+								<div class="modal-header">
+									<h5 class="modal-title" id="${clas}ModalCenterTitle">${desc}</h5>
+									<button type="button" class="btn-close" id="`+clas+`-close-modal" data-bs-dismiss="modal" aria-label="Close"></button>
+								</div>
+								<div class="modal-body" id="${clas}_record">
+
+								</div>
+							</div>
+						</div>
+					</div>`;
+		document.getElementById('deskOption').innerHTML =  record;
+	}
+	document.getElementById(clas+'-close-modal').addEventListener('click', async  event => {  destroyRecord(clas) })
+	await fetch('/option?id='+clas+'.record').then(function(response) {return response.text();}).then(function(body) {document.getElementById(clas+'_record').innerHTML=body});
+	loadScript(clas+".record");	
+}
+async function loadFormModal(clas,comp,rId,desc,mId){
+	component[clas] = {'id':rId,'mid':mId,'com':comp,'desc':desc};
+	if(!document.getElementById(clas+'_modal')){
+		let record = `<div class="modal fade" id="${clas}_modal" tabindex="-1" aria-labelledby="${clas}ModalCenterTitle" aria-hidden="true">
+						<div class="modal-dialog modal-dialog-centered modal-lg">
+							<div class="modal-content">
+								<div class="modal-header">
+									<h5 class="modal-title" id="${clas}ModalCenterTitle">${desc}</h5>
+									<button type="button" class="btn-close" id="`+clas+`-close-modal" data-bs-dismiss="modal" aria-label="Close"></button>
+								</div>
+								<div class="modal-body" id="${clas}_record">
+
+								</div>
+							</div>
+						</div>
+					</div>`;
+		document.getElementById('deskOption').innerHTML =  record;
+	}
+	document.getElementById(clas+'-close-modal').addEventListener('click', async  event => {  destroyRecord(clas) })
+	await fetch('/option?id='+clas+'.form').then(function(response) {return response.text();}).then(function(body) {document.getElementById(clas+'_record').innerHTML=body});
+	loadScript(clas+".form");	
+}
+async function loadOption(option,desc){
+	let opti = option.split(".");
+	let clas = opti[0];
+	let comp = opti[1];
+	if(option.split(".").pop().toLowerCase()=="form"){
+		clas = opti[0]+"-"+opti[1];
+	}	
+	if(document.getElementById('nav-'+clas+'-tab')){ destroyTab(clas); }
+
+	constructNavTab();
+
+	addNavClasTab(clas,desc);
+
+	await fetch('/option?id='+option).then(function(response) {return response.text();}).then(function(body) {document.getElementById('col-table-'+clas).insertAdjacentHTML('beforeend', body);});
+
+	loadScript(option);	
+}
+function constructNav(d,dat) {
+    let barra  = `<ul class='nav flex-column'>{barra}</ul>`;
+    var menus  = `<li>
+                    <button class="btn d-inline-flex align-items-center collapsed " data-bs-toggle="collapse" aria-expanded="false" data-bs-target="#bar{bar_id}" aria-controls="bar{bar_id}">{bar_icon}{bar_des}</button>
+                    <ul class='list-unstyled ps-3 collapse' id="bar{bar_id}">{barOptions}{menus}</ul>
+                  </li>`;
+  	let subMenu  = `<li><button class="btn d-inline-flex align-items-center collapsed " data-bs-toggle="collapse" aria-expanded="false" data-bs-target="#menu{menu_id}" aria-controls="menu{menu_id}">{menu_des}</button>{menu}</li>`;
+  	let opciones = `<ul class='list-unstyled ps-3 collapse' id="menu{menu_id}">{opciones}</ul>`;
+
+    let divider = `<li class='divider'></li>`;
+    let opcionTemplate = {};
+        opcionTemplate["div"] = `<li><a class="d-inline-flex align-items-center rounded" href='#' id='{entidad}.{componente}' title='{opcion_desc}'>{opcion_desc}</a></li>`;
+        opcionTemplate["win"] = `<li><a class="d-inline-flex align-items-center rounded" href='#' id='{entidad}.{componente}' title='{opcion_desc}'>{opcion_desc}</a></li>`;
+        opcionTemplate["tab"] = `<li><a class="d-inline-flex align-items-center rounded" href='#' id='{entidad}.{componente}' title='{opcion_desc}'>{opcion_desc}</a></li>`;
+    let menuDesc = {};
+    let barDesc = {};
+    let barIcon = {};
+	let optionEvent = {};
+    let menuOptions = {};
+    let barOptions = {};
+    for (let k in d) {
+		const { bar_id, bar_des, bar_icon, menu_id, menu_des, opcion_id, opcion_des, entidad, componente, opciontipo_id, contenedor_id, url, bindex, mindex, rindex } = d[k];
+        let opcion = opcionTemplate[contenedor_id];
+        let str = url;
+        let param = window[str];
+        opcion = opcion.replace(/{entidad}/g, entidad);
+        opcion = opcion.replace(/{componente}/g, componente);
+        opcion = opcion.replace(/{opcion_desc}/g, opcion_des);
+        opcion = opcion.replace(/{param}/g, param);
+        if(menu_id=="0"){
+            barOptions[bar_id] = opcion + divider + barOptions[bar_id];
+        }else{
+            menuOptions[bar_id + "_" + menu_id] = opcion+ divider + menuOptions[bar_id + "_" + menu_id];
+        }
+        menuDesc[bar_id + "_" + menu_id] = menu_des;
+        barDesc[bar_id] = bar_des;
+        barIcon[bar_id] = bar_icon;
+        optionEvent[entidad+"."+componente] = 1;
+    }
+    let subMenus = {};
+    Object.entries(menuOptions).forEach(([key, value]) => {
+		value = value.replace(/undefined/g, "");
+        let keyP = key.split("_");
+		let subMenu = opciones;
+		subMenu = subMenu.replace(/{opciones}/g, value);
+		subMenu = subMenu.replace(/{menu_id}/g, key);
+		subMenus[key] = subMenu + subMenus[key];
+	});
+    let barMenus = {};
+    Object.entries(subMenus).forEach(([key, value]) => {
+		value = value.replace(/undefined/g, "");
+        let keyP = key.split("_");
+		let menu = subMenu;
+	    menu = menu.replace(/{menu}/g, value);
+		menu = menu.replace(/{menu_id}/g, key);
+		menu = menu.replace(/{menu_des}/g, menuDesc[key]);
+		barMenus[key] = menu + barMenus[key];
+	});
+	let bars = {};
+    Object.entries(barMenus).forEach(([key, value]) => {
+		value = value.replace(/undefined/g, "");
+		let smenus = menus;
+        let keyP = key.split("_");
+		smenus = smenus.replace(/{menus}/g, value);
+		smenus = smenus.replace(/{bar_id}/g, keyP[0]);
+		smenus = smenus.replace(/{bar_des}/g, barDesc[keyP[0]]);
+		smenus = smenus.replace(/{bar_icon}/g, barIcon[keyP[0]]);
+		bars[keyP[0]] = smenus + bars[keyP[0]];
+	});
+    Object.entries(barOptions).forEach(([key, value]) => {
+        if(!bars[key]){
+		    let smenus = menus;
+            smenus = smenus.replace(/{menus}/g, "");
+    		smenus = smenus.replace(/{bar_id}/g, key);
+    		smenus = smenus.replace(/{bar_des}/g, barDesc[key]);
+    		smenus = smenus.replace(/{bar_icon}/g, barIcon[key]);
+    		bars[key] = smenus ;
+        }
+    });
+    let tbars = "";
+    Object.entries(bars).forEach(([key, value]) => {
+        value = value.replace(/{barOptions}/g, barOptions[key]);
+        let bar = barra;
+        bar = bar.replace(/{barra}/g, value);
+        tbars += bar;
+	});
+	tbars = tbars.replace(/undefined/g, "");
+	let sysop="System Options";
+	if(dat.lang=="es"){sysop="Optiones Sistema"}
+	let sideBar = "<h2 class='h6 pt-2 pb-3 mb-4 border-bottom mx-2'>"+sysop+"</h2>"+tbars;
+    document.getElementById('navMenu').innerHTML = sideBar;
+	Object.keys(optionEvent).forEach(key => {
+		document.getElementById(key).addEventListener('click', async  event => {
+			loadOption(key,event.target.title);
+		})
+	});
+}
+function constructNavTab(){
+	let navTab  = `<nav><div class="nav nav-tabs" id="nav-tab" role="tablist"></div></nav><div class="tab-content" id="nav-tab-content"></div>`;
+	if(!document.getElementById('nav-tab')){document.querySelector('main').innerHTML = navTab;}
+}
+function addNavClasTab(clas,desc){
+	if(document.getElementById('nav-'+clas+'-tab')){return;}
+	let clasTab = `<a class='nav-link' id='nav-{clas}-tab' data-bs-toggle='tab' href='#nav-{clas}' role='tab' aria-controls='nav-{clas}' aria-selected='false'><h6 class='text-primary'>{desc}</h6></a>`;
+		clasTab = clasTab.replace(/{clas}/g, clas);
+		clasTab = clasTab.replace(/{desc}/g, desc);		
+	if(!document.getElementById('nav-tab').hasChildNodes()){
+		document.getElementById('nav-tab').innerHTML = clasTab;
+	}else{
+		document.getElementById('nav-tab').insertAdjacentHTML('beforeend', clasTab);
+	}
+	let tabPane = `<div class="tab-pane fade" id="nav-{clas}"" role="tabpanel" aria-labelledby="nav-{clas}-tab">
+						<div class="row px-1">
+							<div class="col-12" id="col-table-{clas}"></div>
+							<div class="" id="col-accordion-{clas}"></div>
+						</div>
+					</div>
+				 `;					
+		tabPane = tabPane.replace(/{clas}/g, clas);
+	if(!document.getElementById('nav-tab-content').hasChildNodes()){
+		document.getElementById('nav-tab-content').innerHTML = tabPane;
+	}else{
+		document.getElementById('nav-tab-content').insertAdjacentHTML('beforeend', tabPane);
+	}
+}
+async function alertModal(desc,func){
+	let alertModal = `<div class="modal fade" id="alertModalDiv" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+						<div class="modal-dialog">
+							<div class="modal-content">
+								<div class="modal-header">
+									<h4 class="modal-title" id="staticBackdropLabel">Alert !!</h4>
+									<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+								</div>
+								<div class="modal-body"><h6>${desc}</h6></div>
+								<div class="modal-footer">
+									<button type="button" class="btn btn-outline-secondary" data-bs-dismiss="modal">Cancel</button>
+									<button type="button" class="btn btn-outline-primary" data-bs-dismiss="modal" onclick="${func}">Yes</button>
+								</div>
+							</div>
+						</div>
+					</div> `;
+	document.getElementById('deskModal').innerHTML = alertModal;
+	var myModal = new bootstrap.Modal(document.getElementById('alertModalDiv'), {keyboard: false})
+	myModal.show();
+}
+async function alertModalProcess(desc,clas,id){
+	let alertModal = `<div class="modal fade" id="alertModalDiv" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+						<div class="modal-dialog">
+							<div class="modal-content">
+								<div class="modal-header">
+									<h4 class="modal-title" id="staticBackdropLabel">Alert !!</h4>
+									<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+								</div>
+								<div class="modal-body"><h6>${desc}</h6></div>
+								<div class="modal-footer">
+									<button type="button" class="btn btn-outline-secondary" data-bs-dismiss="modal">Cancel</button>
+									<button type="button" class="btn btn-outline-primary" data-bs-dismiss="modal" onclick="processModal('${clas}','${id}');">Yes</button>
+								</div>
+							</div>
+						</div>
+					</div> `;
+	document.getElementById('deskModal').innerHTML = alertModal;
+	var myModal = new bootstrap.Modal(document.getElementById('alertModalDiv'), {keyboard: false})
+	myModal.show();
+}
+function destroyLoadRecord(clas,comp,rId,desc,mId){
+	destroyForm(clas);
+	loadRecord(clas,comp,rId,desc,mId);
+}
+function destroyTab(clas){
+	document.querySelector('#nav-'+clas+'-tab').remove();
+	document.querySelector('#nav-'+clas).remove();
+}
+function destroyRecord(clas){
+	document.getElementById('deskOption').innerHTML = "";
+}
+function destroyForm(clas){
+	document.getElementById('col-accordion-'+clas).innerHTML = "";
+	document.getElementById("col-table-"+clas).className = "col-12";
+	document.getElementById("col-accordion-"+clas).className = "";	
+}
+function destroyModal(clas){
+	document.querySelector('#'+clas+'_modal').remove();
+}
+async function processModal(clas,id){
+	//console.log(modalRemovePros[clas]);
+	let pross =  modalRemovePros[clas];
+    let pros  = pross.sort(function(a,b){ return  a.index-b.index; });
+	pros.forEach(pro => {
+		let args = [];
+		let sargs = {}
+		Object.keys(pro).forEach(k => {
+			if(typeof pro[k] === 'object'){
+				Object.keys(pro[k]).forEach(kk => {
+					if(kk=="id"){
+						args.push(id);
+					}else{
+						args.push(pro[k][kk])
+					}
+					sargs[kk] = pro[k][kk];
+				})
+			}
+		});
+		//console.log(pro['func']);
+		//console.log(sargs);
+		if(pro['func']=="removeRecord"){this[pro['func']](...args);}
+		if(pro['func']=="search"){this[pro['func']](sargs);}
+		if(pro['func']=="loadOption"){this[pro['func']](...args);}		
+	})	
+}
+function toggleMaxMin(clas){
+	toggleClasses('#col-table-'+clas, 'collapse');
+	toggleClasses('#col-accordion-'+clas, 'col-lg-12 col-md-12');	
+}
+function toggleClasses(cssSelector, listOfClasses) {
+	let element;
+	let classes;
+		  
+	if (arguments.length !== toggleClasses.length)
+	  throw new Error('Lack of required parameter.');
+  
+	if (typeof listOfClasses !== 'string' || listOfClasses.length === 0) 
+	  throw new Error('List of CSS-classes is not valid.');
+  
+	classes = listOfClasses.split(/\s/); 
+   
+	if (typeof cssSelector !== 'string' || cssSelector.length === 0) 
+	  throw new Error('Given CSS-selector is not valid.');
+  
+	element = document.querySelector(cssSelector);
+  
+	if (element === null) 
+	  throw new Error('No HTML-element with selector ' + cssSelector + ' found.');
+  
+	classes.forEach(function(classItem, i) {
+	  element.className.indexOf(classItem) === -1 
+		? element.classList.add(classItem)
+		: element.classList.remove(classItem);
+	});
+  
+	return true
+}
+//-------------------------------------------------------//
+//-------------------------------------------------------//
+// SEARCH
+async function search(data) {
+    //let d = fillKeys(data,'tab,clas,sflds,svals,buttons,states,upld,foot,hiddenCols,iniSearch,keyCol,clasDesc,keyMas,desMas,recBut,icoSize');
+    let d = fillKeys(data,'tab,clas,sflds,svals,buttons,states,upld,foot,hiddenCols,iniSearch,keyCol,clasDesc,keyMas,desMas,recBut,icoSize,displayLength');
+    let head  = await searchHeader(d.clas);
+    let coHead= await constructHeader(head);
+	if(d.buttons!=""){
+		document.getElementById(d.tab+'_tab').innerHTML = "<thead><tr>"+coHead+"<th>ACTIONS</th></tr></thead>";		
+	}else{
+		document.getElementById(d.tab+'_tab').innerHTML = "<thead><tr>"+coHead+"</tr></thead>";
+	}
+
+	dataTable[d.tab] = await searchData(d);    
+
+    if(!d.hasOwnProperty("recBut")){return;}
+
+    if(d.recBut=="yes"){
+        return await addRecordButton(d.tab,d.clas,'');        
+    }else{
+        return false;
+    }
+}
+const fillKeys = (d,keys) => {
+    let k = keys.split(',');
+    let nk = {};
+    [...k].forEach(key =>{
+        if(d.hasOwnProperty(key)){
+			nk[key] = d[key];
+        }else{
+			nk[key] = "";            
+        } 
+    });
+    return nk;
+}
+function searchHeader(clas) { 
+    return new Promise(resolve => {
+        $.get('/search.header?clase='+clas, function(data){
+            var d = JSON.parse(data);
+            resolve(d);
+        });
+    });
+}
+function constructHeader(head){
+    return new Promise(resolve => {
+        var row = "";
+        $.each(head, function (k,v){
+            if(typeof v === 'object'){
+                $.each(v, function (kk, vv){
+                    if(kk=="header"){
+                        row += "<th>"+vv+"</th>";
+                    }
+                });
+            }
+        });
+        resolve(row);
+    });
+}
+function searchData (d){
+    let lang ="es";
+	d.icoSize = 1.5;
+    let button = {};
+        button['edit']   = ` <a href="#" id="btnEdit"><i class="bi bi-pencil-square" style="font-size:${d.icoSize}rem"></i></a> `;
+        button['delete'] = ` <a href="#" id="btnDelete"><i class="bi bi-trash" style="color:red;font-size:${d.icoSize}rem"></i></a> `;
+        button['detail'] = ` <a href="#" id="btnDetail"><i class="bi bi-truck" style="font-size:${d.icoSize}rem"></i></a> `;
+        button['formModal'] = ` <a href="#" id="btnFormModal"><i class="bi bi-clipboard-check" style="font-size:${d.icoSize}rem"></i></a> `;
+        button['view'] = ` <a href="#" id="btnView"><i class="bi bi-eye" style="color:#f0ad4e;font-size:${d.icoSize}rem"></i></a> `;
+        button['ok'] = ` <a href="#" id="btnOk"><i class="bi bi-check2-square" style="font-size:${d.icoSize}rem"></i></i></a> `;
+        button['noOk'] = ` <a href="#" id="btnNoOk"><i class="bi bi-square" style="color:red;font-size:${d.icoSize}rem"></i></i></a> `;
+		button['check'] = ` <a href="#" id="{bId}"><i class="bi bi-clipboard-check" style="color:{color};font-size:${d.icoSize}rem"></i></i></a> `;
+        button['check-out'] = ` <a href="#" id="{bId}"><i class="bi bi-box-arrow-right" style="color:{color};font-size:${d.icoSize}rem"></i></i></a>  `;
+    let fileForm =  `<form id="file.{clase}.{doctype}"  method="post" enctype="multipart/form-data">
+                    <input type="hidden" id="file.{clase}.{doctype}.clase" value='{clase}'>
+                    <input type="hidden" id="file.{clase}.{doctype}.clase.id" value='{clase.id}' required>
+                    <input type="hidden" id="file.{clase}.{doctype}.docType" value='{doctype}'>
+                    <input type="hidden" id="file.{clase}.{doctype}.code">
+                    <input type="hidden" id="file.{clase}.{doctype}.doc" value='{doc}'>                        
+                    <div class="input-group">
+                        <div class="custom-file">
+                            <input type="file" class="custom-file-input" id="file.{clase}.{doctype}.name" accept="image/jpeg,application/pdf" title="{title}" placeholder="Subir Archivo">
+                            <label id="file.{clase}.{doctype}.label" class="custom-file-label" for="file.{clase}.{doctype}.name">Seleccionar Archivo</label>
+                        </div>
+                        <div class="input-group-append">
+                        <span class="input-group-text btn-success" id="file.{clase}.{doctype}.upload">Subir</span>
+                        </div>
+                    </div>
+                </form>`;
+    let fileAction =`<div class="row">
+                        <div class="col-md-6"><a href="#" id="file.{clase}.{doctype}.view" style="visibility:hidden;"><i class="bi bi-eye" style="color:#f0ad4e;font-size:${d.icoSize}rem"></i></a></div>
+                        <div class="col-md-6"><a href="#" id="file.{clase}.{doctype}.remove" style="visibility:hidden;"><i class="bi bi-trash" style="color:red;font-size:${d.icoSize}rem"></i></a></div>
+                     </div>`;
+    let claDom = d.clas.replaceAll(".","-");
+    let dom = `<'row'
+                    <'col-sm-12 col-md-6 col-lg-4'f>
+                    <'col-sm-12 col-md-6 col-lg-8 ${claDom}_plus'l>
+                >
+                <'row'
+                    <'col-sm-12'tr>
+                >
+                <'row'
+                    <'col-sm-12 col-md-5'i>
+                    <'col-sm-12 col-md-7'p>
+                >`;
+    if(d.foot=="no"){
+        dom = `<'row'
+                    <'col-sm-12 col-md-6 col-lg-4'f>
+                    <'col-sm-12 col-md-6 col-lg-8 `+claDom+`_plus'l>
+                >
+                <'row'
+                    <'col-sm-12'tr>
+                >
+              `;        
+    }
+    if(d.displayLength==""){d.displayLength=15}
+    let params = {};
+        params['ajax'] = {url :"/search.data",type:"get",data:{"clase":d.clas,"sfields":d.sflds,"svalues":d.svals},dataType:"JSON"};
+        params['processing'] = true;
+        params['serverSide'] = true;
+        params['iDisplayLength'] = d.displayLength;
+        params['lengthChange'] = false;
+        params['language'] = {url: `/res/modules/datatables4/lang/${lang}.json`};
+        params['searching'] = true;
+        params['dom'] = dom;
+    if(d.iniSearch!=""){
+        params['oSearch'] = {"sSearch": d.iniSearch};
+    }
+    if(d.hiddenCols!=""){
+        let cols = [];
+        let hCols= d.hiddenCols.split(',');
+        hCols.forEach(col => {
+            let cl = {"targets": col*1,"visible": false,"searchable": false};
+            cols.push(cl);
+        });
+        params['columnDefs'] = cols;
+    }
+    let boton = {};
+    if(d.buttons !=""){
+        let butts = "";
+        let arr = d.buttons.split(",");
+        for (let i=0;i<arr.length;i++ ){
+            butts += button[arr[i]];
+            boton[arr[i]] = 1;
+        }
+        if(params['columnDefs']){
+            let colBu = {targets: -1, data: null, defaultContent:butts};
+            params['columnDefs'].push(colBu);
+        }else{
+            params['columnDefs'] = [{"targets": -1, data: null, defaultContent:butts}];
+        }
+    }/*
+    if(!isEmpty(d.state)){
+        let condition = "";
+        let inx = d.state.inx;
+        let stts = d.state.states;
+        for (let item in stts){
+            let html = "";
+            if(stts[item]!=""){html=button[stts[item]]}
+            condition += "if(rowData["+inx+"] === '"+item+"'){$(td).html('"+html+"')}";
+        }
+        if(params['columnDefs']){
+            let colSt = {"targets": -1,"createdCell": Function("td, cellData, rowData, row, col",condition)};
+            params['columnDefs'].push(colSt);
+        }else{
+            params['columnDefs'] =[ {"targets": -1,"createdCell": Function("td, cellData, rowData, row, col",condition)}];
+        }
+    }
+	 * */
+    if(!isEmpty(d.states)){
+		let colSt = "";
+        let condition = "";
+        let inx = d.states.inx;
+        let view = d.states.view;		
+        let stts = d.states.states;
+        for (let item in stts){
+			let estado = item;
+			let icon = "";
+			let bId  = "";
+			let color  = "red";			
+			for (let subItem in stts[item]){
+				if(subItem=="icon"){icon = stts[item][subItem]}
+				if(subItem=="id"){bId = stts[item][subItem]}
+				if(subItem=="color"){color = stts[item][subItem]}				
+			}
+            let html = "";
+            if(icon!=""){html=button[icon];html = html.replaceAll("{bId}",bId);html = html.replaceAll("{color}",color)}
+            condition += "if(rowData["+inx+"] === '"+item+"'){$(td).html('{defaultContent}"+html+"')}";
+        }
+		let defaultContent = "";
+		if(params['columnDefs']){
+			for (let i=0;i<params['columnDefs'].length;i++ ){
+				if(params['columnDefs'][i]['defaultContent']){defaultContent=params['columnDefs'][i]['defaultContent']}
+			}			
+		}
+		if(view=="inline"){
+			condition = condition.replaceAll("{defaultContent}",defaultContent);
+			colSt = {"targets": -1,"createdCell": Function("td, cellData, rowData, row, col",condition)};				
+		}else{
+			condition = condition.replaceAll("{defaultContent}","");				
+			colSt = {"targets": -1,"createdCell": Function("td, cellData, rowData, row, col",condition)};				
+		}
+        if(params['columnDefs']){
+            params['columnDefs'].push(colSt);
+        }else{
+            params['columnDefs'] =[ {"targets": -1,"createdCell": Function("td, cellData, rowData, row, col",condition)}];
+        }
+    }	 
+    if(!isEmpty(d.gridUpload)){
+        params["rowCallback"] = function( row, data ) {
+            d.gridUpload.forEach(upl =>{
+                let form = fileForm;
+                let claId = "";
+                let docType = "";
+                let typeDoc = "";
+                if(upl['clase.id']){claId=upl['clase.id']}else{claId=data[upl['inxId']]}
+                if(upl['doctype']){
+                    let dct = upl['doctype'];
+                    let dci = data[upl['inxDt']];
+                    docType = (dct+dci).toLowerCase();
+                    typeDoc = docType;
+                }else{
+                    docType=data[upl['inxDt']].toLowerCase()
+                }
+                form =  form.replace(/{clase}/g,upl['clase']);
+                form =  form.replace(/{clase.id}/g,claId);
+                form =  form.replace(/{doctype}/g,docType);
+                form =  form.replace(/{doc}/g,data[upl['inxId']]);
+                let action = fileAction;
+                action =  action.replace(/{clase}/g,upl['clase']);
+                action =  action.replace(/{doctype}/g,docType);
+                $('td:eq('+upl['fileInputTarget']+')', row).html(form);
+                $('td:eq('+upl['fileControlTarget']+')', row).html(action);
+                setTimeout(function () {
+                    fileOnClickEventListener('file.'+upl['clase']+"."+docType);
+                    fileOnChangeEventListener('file.'+upl['clase']+"."+docType);
+                    getFiles(upl['clase'],claId,typeDoc);
+                }, 1000);
+            });
+        }
+    }
+    return new Promise(resolve => {
+        var tab1 = d.tab.replace(/\./g,"\\.");
+        if ($.fn.DataTable.isDataTable('#'+tab1+'_tab')) {
+            $('#'+tab1+'_tab').DataTable().destroy();
+        }
+        var t = $('#'+tab1+'_tab').DataTable(params);
+        if(d.buttons !=""){
+            if(boton['edit']==1){
+                $('#'+tab1+'_tab tbody').on("click", "[id*=btnEdit]", function () {
+                    let data = dataTable[d.clas].row($(this).parents('tr')).data();
+                    let masId = "";
+                    if(d.keyMas!=""){masId = data[d.keyMas*1]}else{ masId = ""};
+                    loadRecord(d.clas,'record',data[d.keyCol*1],d.clasDesc,masId);
+                });
+            }            
+            if(boton['delete']==1){
+                $('#'+tab1+'_tab tbody').on('click', '[id*=btnDelete]', async function () {
+                    let data = dataTable[d.clas].row($(this).parents('tr')).data();
+                    alertModalProcess("Are you sure, you wish to remove this information ?",d.clas,data[d.keyCol*1]);
+                });
+            }
+			if(boton['formModal']==1){
+                $('#'+tab1+'_tab tbody').on("click", "[id*=btnFormModal]", function () {
+                    let data = dataTable[d.clas].row($(this).parents('tr')).data();
+					if(d.keyCol==""){d.keyCol=0}
+					loadFormModal(d.clas,'record',data[d.keyCol*1],d.clasDesc,data[d.keyMas*1]) 
+				});
+			}
+			if(boton['form']==1){
+                $('#'+tab1+'_tab tbody').on("click", "[id*=btnForm]", function () {
+					var data = dataTable[d.clas].row(this).data();
+					if(d.keyCol==""){d.keyCol=0}
+					let masDes = "";
+					if(d.desMas!=""){masDes = data[d.desMas*1]}else{ masDes = ""};
+					loadForm(d.clas,'form',data[d.keyCol*1],d.clasDesc,data[d.keyMas*1],masDes);
+                });
+			}			
+        }else{
+            $('#'+tab1+'_tab tbody').on('click', 'tr', function () {
+                var data = dataTable[d.clas].row(this).data();
+                if(d.keyCol==""){d.keyCol=0}
+                let masDes = "";
+                if(d.desMas!=""){masDes = data[d.desMas*1]}else{ masDes = ""};
+                loadAccordion(d.clas,'accordion',data[d.keyCol*1],d.clasDesc,data[d.keyMas*1],masDes);  
+            });
+        }
+        resolve(t);
+    });    
+}
+function addRecordButton(tab,clas,icon){
+    return new Promise(resolve => {
+        dataTable[tab].on('draw', function (data) {
+            let valid = false;
+            let claDom = clas.replaceAll(".","-");
+            if(!document.getElementById(clas+'_add')){
+                //let boton = `<a href="#" id='`+clas+`_add' style='margin-right:10px;height:2rem'><i class='far fa-plus-square fa-2x'></i></a>`;
+                let boton = `<a href="#" id='`+clas+`_add' style='margin-right:10px;height:2rem;position:relative;top:-5px'><i class="bi bi-plus-square" style="font-size:1.5rem;"></i></a>`;
+                document.querySelector("."+claDom+"_plus").insertAdjacentHTML('beforeend', boton);
+            	valid = true;
+            }
+           resolve(valid);
+        });   
+    }); 
+}
+function isEmpty(obj) {
+    for(var prop in obj) {
+        if(obj.hasOwnProperty(prop))
+            return false;
+    }
+    return true;
+}
+//-------------------------------------------------------//
+//-------------------------------------------------------//
+// RECORD
+async function record(clas,id){
+	let data = {'clase':clas,'id':id};
+	let record  = await getRecord(data);
+				  await fillRecord(record);
+}
+async function getRecord(data){
+	return await (await fetch('/record.get', {method: 'post',headers: {'Content-Type': 'application/json',},body: JSON.stringify(data)})).json();
+}
+async function getRecordPair(data){
+	return await (await fetch('/record.pair', {method: 'post',headers: {'Content-Type': 'application/json',},body: JSON.stringify(data)})).json();
+}
+async function recordAssociation(clas,mid,id){
+	let data = {'clase':clas,'mid':mid,'id':id};
+	let record = await (await fetch('/record.association', {method: 'post',headers: {'Content-Type': 'application/json',},body: JSON.stringify(data)})).json();
+				 await fillRecord(record);
+}
+async function fillRecord(data){
+	let d = JSON.parse(data);
+	//console.log(d);
+	Object.keys(d).forEach(k => {
+		if(document.getElementById(k)){document.getElementById(k).value	= d[k];}
+		//console.log(k+">"+d[k]);
+		if(typeof d[k] === 'object' && d[k] != null){
+			Object.keys(d[k]).forEach(kk => {
+				if(document.getElementById(k+"."+kk)){document.getElementById(k+"."+kk).value	= d[k][kk];}
+				//console.log(kk+">>"+d[k][kk]);
+				if(typeof d[k][kk] === 'object' && d[k][kk] != null){
+					Object.keys(d[k][kk]).forEach(kkk => {
+						if(document.getElementById(k+"."+kk+"."+kkk)){document.getElementById(k+"."+kk+"."+kkk).value	= d[k][kk][kkk];}
+						//console.log(kkk+">>>"+d[k][kk][kkk]);
+					})
+				}
+			})
+		}            //d[key];
+    })
+}
+async function saveRecordAlert(cla){
+	let data = await getRecordElements(cla);
+	if(data==false){return false}
+	try {
+		const alert =  await Swal.fire({
+			title: "¡Atención!",
+			text: "¿Está Seguro/a de Guardar esta Información?",
+			icon: 'warning',
+			showCancelButton: true,
+			confirmButtonColor: '#3085d6',
+			cancelButtonColor: '#d33',
+			confirmButtonText: "Si, Guardar",
+		});
+		if(alert.value === true){
+			return await save(data);
+		}else{
+			return false;
+		}
+	} catch (e) {
+		console.log('error:', e);
+	 return false;
+	}
+}
+async function saveRecord(cla){
+	let data = await getRecordElements(cla);
+	//console.log(data)
+	if(data==false){return false}
+	return await save(data);
+}
+async function saveClassAlert(cla,sec){
+	let data = await getClassElements(cla,sec);
+	if(data==false){return false}
+	try {
+		const alert =  await Swal.fire({
+			title: "¡Atención!",
+			text: "¿Está Seguro/a de Guardar esta Información?",
+			icon: 'warning',
+			showCancelButton: true,
+			confirmButtonColor: '#3085d6',
+			cancelButtonColor: '#d33',
+			confirmButtonText: "Si, Guardar",
+		});
+		if(alert.value === true){
+			return await save(data);
+		}else{
+			return false;
+		}
+	} catch (e) {
+		console.log('error:', e);
+	 return false;
+	}
+}
+async function saveClass(cla,sec){
+	let data = await getClassElements(cla,sec);
+	if(data==false){return false}
+	return await save(data);
+}
+async function save(data){
+	return await (await fetch('/record.save', {method: 'post',headers: {'Content-Type': 'application/json',},body: JSON.stringify(data)})).json();
+}
+async function set(data){
+	return await (await fetch('/record.set', {method: 'post',headers: {'Content-Type': 'application/json',},body: JSON.stringify(data)})).json();
+}
+async function removeRecord(clas,id){
+	var data = {};
+	data['clase'] = clas;
+	data['id'] = id;
+	return await remove(data);	
+}
+async function remove(data){
+	return await (await fetch('/record.remove', {method: 'post',headers: {'Content-Type': 'application/json',},body: JSON.stringify(data)})).json();
+}
+async function getRecordElements(cla){
+	let valid = true;
+	let datos = {};
+	datos['clase'] = cla;
+	[...document.getElementById(cla).elements].forEach(key =>{
+        if(key.tagName==="INPUT" || key.tagName==="SELECT" || key.tagName==="TEXTAREA" ){
+			if(!document.getElementById(key["id"].replaceAll(cla+".", ''))){
+				let val = "";
+				if (key.type == "checkbox") {
+					val = document.getElementById(key["id"]).checked;
+				}else if(key.type == "radio"){
+					if(document.getElementById(key["id"]).checked){
+						let id = document.getElementById(key["id"]).name;
+						val = document.getElementById(key["id"]).value;
+						if(id.split(".").length>1){ datos[id.replace(cla+".", "")] = val; }
+					}
+				}else{
+					if (!document.getElementById(key["id"]).checkValidity()) {
+						title = document.getElementById(key["id"]).title;
+						alertModal("Favor Completar "+title,"");
+						valid = false;
+					}
+					val = document.getElementById(key["id"]).value;
+				}
+				if(key["id"].split(".").length>1){ datos[key["id"].replace(cla+".", "")] = val; }
+			}
+		}
+	});
+	if(!valid==false){return datos;}else{return false}
+}
+async function getClassElements(cla,sec){
+	let valid = true;
+	let datos = {};
+	datos['clase'] = cla;
+	[...document.getElementsByClassName(sec)].forEach(key =>{
+        if(key.tagName==="INPUT" || key.tagName==="SELECT" || key.tagName==="TEXTAREA" ){
+			if(!document.getElementById(key["id"].replaceAll(cla+".", ''))){			
+				let val = "";
+				if (key.type == "checkbox") {
+					val = document.getElementById(key["id"]).checked;
+				}else if(key.type == "radio"){
+					if(document.getElementById(key["id"]).checked){
+						let id = document.getElementById(key["id"]).name;
+						val = document.getElementById(key["id"]).value;
+						if(id.split(".").length>1){ datos[id.replace(cla+".", "")] = val; }
+					}
+				}else{
+					if (!document.getElementById(key["id"]).checkValidity()) {
+						title = document.getElementById(key["id"]).title;
+						alertModal("Favor Completar "+title,"");
+						valid = false;
+					}
+					val = document.getElementById(key["id"]).value;
+				}
+				if(key["id"].split(".").length>1){
+					datos[key["id"].replace(cla+".", "")] = document.getElementById(key["id"]).value;
+				}
+			}
+		}
+	});
+	if(!valid==false){return datos;}else{return false}
+}
+//-------------------------------------------------------//
+//-------------------------------------------------------//
+// COLLECTION
+async function getCollection(clas,key,rid,fds,ord,dir){
+    let data = {'clase':clas,'key':key,'id':rid,'fds':fds,'order':ord,'dir':dir};
+    return await (await fetch('/collection.get', {method: 'post',headers: {'Content-Type': 'application/json',},body: JSON.stringify(data)})).json();;
+}
+async function getCollectionPair(clas,key,val){
+    let data = {'clase':clas,'key':key,'val':val};
+    return await (await fetch('/collection.pair', {method: 'post',headers: {'Content-Type': 'application/json',},body: JSON.stringify(data)})).json();;
+}
+async function fillSelect(str,ele){
+    let d = JSON.parse(str);
+    let selec = document.getElementById(ele);
+    selec.length = 1;
+    Object.keys(d).forEach(key => {
+        var newOption = document.createElement("option");
+        newOption.value		= key;
+        if (typeof newOption.textContent === 'undefined'){
+            newOption.innerText = d[key];
+        }else{
+            newOption.textContent = d[key];
+        }
+        selec.appendChild(newOption);
+    });
+}
+async function getCollectionFiltered(clas,key,val,keys,values){
+    let data = {'clase':clas,'key':key,'val':val,'keys':keys,'values':values};
+    return await (await fetch('/collection.pairFiltered', {method: 'post',headers: {'Content-Type': 'application/json',},body: JSON.stringify(data)})).json();;
+}
+async function getCollectionCount(clas,keys,vals){
+    let data = {'clase':clas,'keys':keys,'vals':vals};
+    return await (await fetch('/collection.count', {method: 'post',headers: {'Content-Type': 'application/json',},body: JSON.stringify(data)})).json();;
+}
+async function getQueryCollection(query){
+    let data = {'sql':query};
+    return await (await fetch('/collection.getQuery', {method: 'post',headers: {'Content-Type': 'application/json',},body: JSON.stringify(data)})).json();;
+}
+//-------------------------------------------------------//
+//-------------------------------------------------------//
+// FORM
+function formCheckElements(cla,icon){
+	let valid = true;
+	[...document.querySelector('#'+cla).elements].forEach(key =>{
+		if(key.tagName==="INPUT" || key.tagName==="SELECT" || key.tagName==="TEXTAREA" ){
+            //console.log(key["id"]);
+			if (!document.getElementById(key["id"]).checkValidity()) {
+				valid = false;
+			}
+		}
+	});
+	if (valid === true) {			
+        document.getElementById(icon).className = "fas fa-check-circle";
+	}  
+    return valid;	
+}
+function formCheckGrid(cla,icon){
+    return new Promise(resolve => {
+        dataTable[cla].on('draw', function (data) {
+            let valid = false;
+            if(dataTable[cla].page.info().recordsDisplay>0){		
+                document.getElementById(icon).className = "fas fa-check-circle";
+                valid=true;
+           }else{
+                valid=false;
+           }
+           resolve(valid);
+        });   
+    }); 
+}
+function fileFormCheckGrid(cla,gridUpload,icon){
+    dataTable[cla].on('draw', function (data) {
+        if(dataTable[cla].page.info().recordsDisplay>0){		
+            setTimeout(function () {
+                let valid = true;
+                dataTable[cla].rows().every(function(){
+                    let d = this.data()
+                    gridUpload.forEach(upl =>{
+                        if(valid==false){return;}
+                        if(upl['doctype']){
+                            let dct = upl['doctype'];
+                            let dci = d[upl['inxDt']];
+                            docType = (dct+dci).toLowerCase();
+                            typeDoc = docType;
+                        }else{
+                            docType=d[upl['inxDt']].toLowerCase()
+                        }
+                        if(!document.getElementById("file."+upl['clase']+"."+docType+".code")){
+                            valid=false;
+                        }else {
+                            //console.log("file."+upl['clase']+"."+docType+".code"+"<>"+document.getElementById("file."+upl['clase']+"."+docType+".code").value);
+                            if(document.getElementById("file."+upl['clase']+"."+docType+".code").value==""){
+                                valid=false;
+                            }
+                        }                   
+                    });
+                });
+                if(valid==true){document.getElementById(icon).className = "fas fa-check-circle";}   
+                return valid; 
+            }, 2000);
+        }                    
+    });
+}
+function formCheckElement(element,icon){
+    let valid = false;    
+    if(document.getElementById(element).value != null){
+        document.getElementById(icon).className = "fas fa-check-circle";
+		valid = true;
+    }
+    return valid;
+}
+function classCheckElements(cla,icon){
+	let valid = true;
+	[...document.getElementsByClassName(cla)].forEach(key =>{
+		if(key.tagName==="INPUT" || key.tagName==="SELECT" || key.tagName==="TEXTAREA" ){
+            //console.log(key["id"]);
+			if (!document.getElementById(key["id"]).checkValidity()) {
+				valid = false;
+			}
+		}
+	});
+	if (valid === true) {			
+        document.getElementById(icon).className = "fas fa-check-circle";
+	}  
+    return valid;	
+}
+//-------------------------------------------------------//
+//-------------------------------------------------------//
+// FILE
+async function fileUploadAlert(cla){
+	let data = await getFormFileElements(cla);
+	//console.log(data);
+	//return;
+	if(data==false){return false}
+	try {
+		const alert =  await Swal.fire({
+			title: "¡Atención!",
+			text: "¿Está Seguro/a de Subir este Archivo?",
+			icon: 'warning',
+			showCancelButton: true,
+			confirmButtonColor: '#3085d6',
+			cancelButtonColor: '#d33',
+			confirmButtonText: "Si, Guardar",
+		});
+		if(alert.value === true){
+			return await upload(data);
+		}else{
+			return false;
+		}
+	} catch (e) {
+		console.log('error:', e);
+	 return false;
+	}
+}
+async function fileUpload(cla){
+	let d = await getFormFileElements(cla);
+	let formData = getFormFileData(cla,d);
+	let response = await upload(formData);
+	return response.status;
+}
+async function upload(data){
+	return await (await fetch('/file.upload', {method: 'POST',body: data}));
+}
+async function fileRemoveAlert(cla,id){
+	var data = {};
+	data['clase'] = cla;
+	data['id'] = id;
+	try {
+		const alert =  await Swal.fire({
+			title: "¡Atención!",
+			text: "¿Está Seguro/a de Eliminar esta Información?",
+			icon: 'warning',
+			showCancelButton: true,
+			confirmButtonColor: '#3085d6',
+			cancelButtonColor: '#d33',
+			confirmButtonText: "Si, Guardar",
+		});
+		if(alert.value === true){
+			return await remove(data);
+		}else{
+			return false;
+		}
+	} catch (e) {
+		console.log('error:', e);
+	 return false;
+	}
+}
+async function fileRemove(fileName){
+	let data = {'fileName':fileName}
+	return await (await fetch('/file.remove', {method: 'post',headers: {'Content-Type': 'application/json',},body: JSON.stringify(data)})).json();
+}
+async function fileSearch(pattern,extension){
+    let data = {'pattern':pattern,'extension':extension}
+    return await (await fetch('/file.search', {method: 'post',headers: {'Content-Type': 'application/json',},body: JSON.stringify(data)})).json();
+}
+async function getFormFileElements(cla){
+	let valid = true;
+	let datos = {};
+	datos['clase'] = cla;
+	[...document.getElementById(cla).elements].forEach(key =>{
+		if(key.tagName==="INPUT" || key.tagName==="SELECT" || key.tagName==="TEXTAREA" ){
+			if (!document.getElementById(key["id"]).checkValidity()) {
+				title = document.getElementById(key["id"]).title;
+				alertModal("Favor Completar "+title,"");				
+				valid = false;
+			}
+			if(key["id"].split(".").length>1){ datos[key["id"].replace(cla+".", "")] = document.getElementById(key["id"]).value; }
+		}
+	});
+	if(!valid==false){return datos;}else{return false}	
+}
+function getFormFileData(cla,object) {
+    const formData = new FormData();
+	Object.keys(object).forEach(key => formData.append(key, object[key]));
+	let fileField = document.getElementById(cla+".name");
+	formData.append('file', fileField.files[0])
+	return formData;	
+}
+//-------------------------------------------------------//
+//-------------------------------------------------------//
+// PRINT
+function printFile(file){
+	let peticion = "file.get?nombre="+file;
+	let ext = file.split(".");
+	if(ext[1].toUpperCase() == "PDF"){
+        let win = window.open(peticion, '_blank');
+        win.focus();
+	}else if(ext[1].toUpperCase() == "JPEG" || tipoDoc == "JPG"){	
+		printJS({
+			printable: peticion,
+			documentTitle: file,
+			type: 'image'
+		});
+	}else{
+		alertModal("¡Lo sentimos!","Ocurrio un error al intentar imprimir el documento, por favor, intentalo nuevamente","");
+	}
+}
+//-------------------------------------------------------//
+//-------------------------------------------------------//
+// GENERATE
+async function appGenerate(cla){
+	let data = await getRecordElements(cla);
+	if(data==false){return false}	
+	return await (await fetch('/generate.app', {method: 'post',headers: {'Content-Type': 'application/json',},body: JSON.stringify(data)})).json();
+}
+async function appConfiguration(cla){
+	let data = await getRecordElements(cla);
+	if(data==false){return false}	
+	return await (await fetch('/generate.configuration', {method: 'post',headers: {'Content-Type': 'application/json',},body: JSON.stringify(data)})).json();
+}
+async function appSchema(cla){
+	let data = await getRecordElements(cla);
+	if(data==false){return false}	
+	return await (await fetch('/generate.schema', {method: 'post',headers: {'Content-Type': 'application/json',},body: JSON.stringify(data)})).json();
+}
+async function appPopulate(cla){
+	let data = await getRecordElements(cla);
+	if(data==false){return false}	
+	return await (await fetch('/generate.appPopulate', {method: 'post',headers: {'Content-Type': 'application/json',},body: JSON.stringify(data)})).json();	
+}
+async function objectGenerate(cla){
+	let data = await getRecordElements(cla);
+	if(data==false){return false}	
+	return await (await fetch('/generate.object', {method: 'post',headers: {'Content-Type': 'application/json',},body: JSON.stringify(data)})).json();
+}
+async function objectCollection(cla){
+	let data = await getRecordElements(cla);
+	if(data==false){return false}
+	return await (await fetch('/generate.collection', {method: 'post',headers: {'Content-Type': 'application/json',},body: JSON.stringify(data)})).json();
+}
+async function objectClass(cla){
+	let data = await getRecordElements(cla);
+	if(data==false){return false}
+	//console.log(data);
+	return await (await fetch('/generate.class', {method: 'post',headers: {'Content-Type': 'application/json',},body: JSON.stringify(data)})).json();
+}
+async function interfaceGenerate(cla){
+	let data = await getRecordElements(cla);
+	if(data==false){return false}	
+	return await (await fetch('/generate.interface', {method: 'post',headers: {'Content-Type': 'application/json',},body: JSON.stringify(data)})).json();
+}
+async function interfaceXml(cla){
+	let data = await getRecordElements(cla);
+	if(data==false){return false}
+	return await (await fetch('/generate.xml', {method: 'post',headers: {'Content-Type': 'application/json',},body: JSON.stringify(data)})).json();
+}
+async function interfaceHtml(cla){
+	let data = await getRecordElements(cla);
+	if(data==false){return false}
+	return await (await fetch('/generate.html', {method: 'post',headers: {'Content-Type': 'application/json',},body: JSON.stringify(data)})).json();
+}
+async function interfaceJs(cla){
+	let data = await getRecordElements(cla);
+	if(data==false){return false}
+	return await (await fetch('/generate.js', {method: 'post',headers: {'Content-Type': 'application/json',},body: JSON.stringify(data)})).json();
+}
+async function classProperties(cla){
+	let data = await getRecordElements(cla);
+	if(data==false){return false}
+	return await (await fetch('/generate.classProperties', {method: 'post',headers: {'Content-Type': 'application/json',},body: JSON.stringify(data)})).json();	
+}
+async function viewRecordElements(cla){
+	let data = await getRecordElements(cla);
+	if(data==false){return false}
+	return await (await fetch('/generate.viewRecordElements', {method: 'post',headers: {'Content-Type': 'application/json',},body: JSON.stringify(data)})).json();	
+}
+async function viewSearchColumns(cla){
+	let data = await getRecordElements(cla);
+	if(data==false){return false}
+	return await (await fetch('/generate.viewSearchColumns', {method: 'post',headers: {'Content-Type': 'application/json',},body: JSON.stringify(data)})).json();	
+}
+async function viewFormColumns(cla){
+	let data = await getRecordElements(cla);
+	if(data==false){return false}
+	return await (await fetch('/generate.viewFormColumns', {method: 'post',headers: {'Content-Type': 'application/json',},body: JSON.stringify(data)})).json();	
+}
+//-------------------------------------------------------//
+//-------------------------------------------------------//
+// RECOBRO
+async function pagoDias(cla,rid){
+	let datos = {};
+	datos['clase'] = cla;
+    datos['id'] = rid;
+    return await (await fetch('/recobro.pagoDias', {method: 'post',headers: {'Content-Type': 'application/json',},body: JSON.stringify(data)})).json();
+}
+//-------------------------------------------------------//
+//-------------------------------------------------------//
+// AUXILIAR
+function loadScript(option) {
+	let src = "/res/js/"+option+".js";
+	let script = document.createElement('script');
+	let id = src.split('\\').pop().split('/').pop();
+	script.id = id;
+	script.src = src;
+	script.async = false;
+	//script.type = "module";	
+	if(document.getElementById(id)){
+		const scriptElem = document.getElementById(id); 
+		scriptElem.remove();
+	}
+	document.body.append(script);
+}
+function loadStyle(src){
+	let fileName = src.split('\\').pop().split('/').pop().split('.');	
+	let fileRef=document.createElement("link")
+	//fileRef.id = fileName[0];
+	//fileRef.async = false;	
+	fileRef.setAttribute("rel", "stylesheet")
+	fileRef.setAttribute("type", "text/css")
+	fileRef.setAttribute("href", src)
+}
