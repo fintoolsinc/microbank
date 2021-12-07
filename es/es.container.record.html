@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <form class="row g-3 needs-validation" id="container" novalidate>
+        <div class="col-6">
+            <div class="form-outline">
+                <label for="container.id" class="form-label">ID</label>
+                <input type="text" class="form-control" id="container.id" required/>
+            </div>
+        </div>
+        <div class="col-6">
+            <div class="form-outline">
+                <label for="container.date" class="form-label">Date</label>
+                <input type="date" class="form-control" id="container.date" required />
+                <div class="valid-feedback">Looks good!</div>
+                <div class="invalid-feedback">Please choose a date</div>
+            </div>
+        </div> 
+        <div class="col-12">
+            <div class="form-outline">
+                <label for="container.desc" class="form-label">Description</label>
+                <input type="text" class="form-control" id="container.desc" required />
+                <div class="valid-feedback">Looks good!</div>
+                <div class="invalid-feedback">Please provid Description</div>
+            </div>
+        </div>
+        <div class="col-12">
+            <div class="form-outline">
+                <label for="container.text" class="form-label">Comments</label>
+                <textarea class="form-control" id="container.text"></textarea>
+            </div>
+        </div>
+        <div class="col-12 d-flex justify-content-end">
+            <button class="btn btn-outline-primary" id="container.save">Save</button>
+        </div>
+    </form>
+</body>
+</html>

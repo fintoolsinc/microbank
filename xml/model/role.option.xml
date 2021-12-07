@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model>
+    <class name="role.option">
+        <property id="id">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="desc">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="text">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="date">
+            <type>date</type>
+            <length>10</length>
+        </property>
+        <property id="in">
+            <type>timestamp</type>
+            <length>16</length>
+        </property>
+        <property id="update">
+            <type>timestamp</type>
+            <length>16</length>
+        </property>
+        <property id="option.id">
+            <type>integer</type>
+            <length>11</length>
+        </property>
+        <property id="bar.id">
+            <type>integer</type>
+            <length>11</length>
+        </property>
+        <property id="menu.id">
+            <type>integer</type>
+            <length>11</length>
+        </property>
+        <property id="index">
+            <type>integer</type>
+            <length>11</length>
+        </property>
+        <property id="count">
+            <type>integer</type>
+            <length>11</length>
+        </property>
+    </class>
+    <mapper>
+        <class name="role.option" collection="role.options" type="table" key="count"/>	
+    </mapper>
+</model>

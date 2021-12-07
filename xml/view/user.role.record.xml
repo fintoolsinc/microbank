@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<view type="record">
+	<class>user.role</class>
+    <element id="id">
+        <attributes>
+            <tag>input</tag>
+            <type>text</type>
+            <readOnly>no</readOnly>
+            <disabled>no</disabled>
+        </attributes>
+    </element>
+    <element id="role.id">
+        <attributes>
+            <tag>input</tag>
+            <type>text</type>
+            <readOnly>no</readOnly>
+            <disabled>no</disabled>
+        </attributes>
+    </element>
+    <element id="state">
+        <attributes>
+            <tag>input</tag>
+            <type>text</type>
+            <readOnly>no</readOnly>
+            <disabled>no</disabled>
+        </attributes>
+    </element>
+    <element id="date">
+        <attributes>
+            <tag>input</tag>
+            <type>date</type>
+            <readOnly>no</readOnly>
+            <disabled>no</disabled>
+        </attributes>
+    </element>
+    <element id="in">
+        <attributes>
+            <tag>input</tag>
+            <type>text</type>
+            <readOnly>no</readOnly>
+            <disabled>no</disabled>
+        </attributes>
+    </element>
+    <element id="update">
+        <attributes>
+            <tag>input</tag>
+            <type>text</type>
+            <readOnly>no</readOnly>
+            <disabled>no</disabled>
+        </attributes>
+    </element>
+    <element id="count">
+        <attributes>
+            <tag>input</tag>
+            <type>text</type>
+            <readOnly>no</readOnly>
+            <disabled>no</disabled>
+        </attributes>
+    </element>    
+</view>

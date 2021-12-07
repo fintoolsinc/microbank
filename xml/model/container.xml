@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model>
+    <class name="container">
+        <property id="id">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="desc">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="text">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="date">
+            <type>date</type>
+            <length>10</length>
+        </property>
+        <property id="in">
+            <type>timestamp</type>
+            <length>16</length>
+        </property>
+        <property id="update">
+            <type>timestamp</type>
+            <length>16</length>
+        </property> 
+    </class>
+    <mapper>
+        <class name="container" collection="containers" type="table" key="id"/>	
+    </mapper>
+</model>

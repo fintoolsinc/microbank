@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model>
+    <class name="user">
+        <property id="id">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="first">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="last">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="password">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="text">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="desc">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="date">
+            <type>date</type>
+            <length>10</length>
+        </property>
+        <property id="in">
+            <type>timestamp</type>
+            <length>16</length>
+        </property>
+        <property id="update">
+            <type>timestamp</type>
+            <length>16</length>
+        </property> 
+    </class>
+    <mapper>
+        <class name="user" collection="users" type="table" key="id"/>	
+    </mapper>
+</model>

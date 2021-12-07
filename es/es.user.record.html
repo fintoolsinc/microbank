@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <form class="row g-3 needs-validation" id="user" novalidate>
+        <div class="col-6">
+            <div class="form-outline">
+                <label for="user.id" class="form-label">ID</label>
+                <input type="email" class="form-control" id="user.id" required/>
+            </div>
+        </div>
+        <div class="col-6">
+            <div class="form-outline">
+                <label for="user.date" class="form-label">Date</label>
+                <input type="date" class="form-control" id="user.date" required />
+                <div class="valid-feedback">Looks good!</div>
+                <div class="invalid-feedback">Please choose a date</div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="form-outline">
+                <label for="user.first" class="form-label">First Name</label>
+                <input type="text" class="form-control" id="user.first" required />
+                <div class="valid-feedback">Looks good!</div>
+                <div class="invalid-feedback">Please provid first name</div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="form-outline">
+                <label for="user.last" class="form-label">Last Name</label>
+                <input type="text" class="form-control" id="user.last" required />
+                <div class="valid-feedback">Looks good!</div>
+                <div class="invalid-feedback">Please provid last name</div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="form-outline">
+                <label for="password" class="form-label">Password</label>
+                <input type="password" class="form-control" id="password" required />
+                <div class="valid-feedback">Looks good!</div>
+                <div class="invalid-feedback">Please provid password</div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="form-outline">
+                <label for="password1" class="form-label">Confirm Password</label>
+                <input type="password" class="form-control" id="password1" required />
+                <div class="valid-feedback">Looks good!</div>
+                <div class="invalid-feedback">Please confirm password</div>
+            </div>
+        </div>
+        <div class="col-12">
+            <div class="form-outline">
+                <label for="user.text" class="form-label">Comments</label>
+                <textarea class="form-control" id="user.text"></textarea>
+            </div>
+        </div>
+        <div class="col-8 d-flex justify-content-end">
+            <button class="btn btn-outline-danger" id="user.remove" disabled>Remove</button>
+        </div>
+        <div class="col-4 d-flex justify-content-end">
+            <button class="btn btn-outline-primary" id="user.save">Save</button>
+        </div> 
+        <input type="hidden" id="user.desc"/>
+        <input type="hidden" id="user.password"/>
+    </form>
+</body>
+</html>

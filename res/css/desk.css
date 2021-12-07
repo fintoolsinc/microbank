@@ -1,0 +1,70 @@
+body {
+	font-size: .875rem;
+}
+.sidebar {
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	z-index: 100; /* Behind the navbar */
+	padding: 48px 0 0; /* Height of navbar */
+	box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);
+    transition: all 0.6s cubic-bezier(0.945, 0.020, 0.270, 0.665);
+    transform-origin: bottom left;
+}
+.sidebar.active {
+    margin-left: -250px;
+    transform: rotateY(100deg);	
+}
+.nav a {
+  padding: .1875rem .5rem;
+  margin-top: .125rem;
+  margin-left: .3125rem;
+  color: rgba(0, 0, 0, .65);
+  text-decoration: none;
+}
+.nav a:hover,
+.nav a:focus {
+  color: rgba(0, 0, 0, .85);
+  background-color: rgba(121, 82, 179, .1);
+}
+.nav .active {
+  font-weight: 600;
+  color: rgba(0, 0, 0, .85);
+}
+.nav .btn {
+	padding: .25rem .5rem;
+	font-weight: 600;
+	color: rgba(0, 0, 0, .65);
+	border: 0;
+}
+.nav .btn:hover,
+.nav .btn:focus {
+  color: rgba(0, 0, 0, .85);
+  background-color: rgba(121, 82, 179, .1);
+}
+.nav .btn:focus {
+  box-shadow: 0 0 0 1px rgba(121, 82, 179, .7);
+}
+.nav .btn::after {
+	text-align:right;
+	width: 1.25em;
+	line-height: 0;
+	content: url("/res/modules/bootstrap5/icons/chevron-right.svg");
+	transform: scale(.8);	
+	transition: transform .35s ease;
+	transform-origin: .5em 50%;
+}
+.nav .btn[aria-expanded="true"]::after {
+  transform: rotate(90deg)/* rtl:ignore */;
+}
+.dataTables_wrapper .dataTables_filter input {
+	width: 30vw;
+	margin: 5px;
+}
+.dataTables_filter input {
+	background-image:url('/res/modules/bootstrap5/icons/search.svg');
+	background-repeat: no-repeat;
+	background-position: right;
+}
+

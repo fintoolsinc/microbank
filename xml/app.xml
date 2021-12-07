@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model>
+    <class name="entity">
+        <property id="id">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="desc">
+            <type>string</type>
+            <length>256</length>
+        </property>		
+        <property id="text">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="date">
+            <type>date</type>
+            <length>10</length>
+        </property>
+        <property id="in">
+            <type>timestamp</type>
+            <length>16</length>
+        </property>
+        <property id="update">
+            <type>timestamp</type>
+            <length>16</length>
+        </property> 
+        <property id="count">
+            <type>integer</type>
+            <length>11</length>
+        </property>		
+    </class>
+    <class name="component">
+        <property id="id">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="desc">
+            <type>string</type>
+            <length>256</length>
+        </property>		
+        <property id="text">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="date">
+            <type>date</type>
+            <length>10</length>
+        </property>
+        <property id="in">
+            <type>timestamp</type>
+            <length>16</length>
+        </property>
+        <property id="update">
+            <type>timestamp</type>
+            <length>16</length>
+        </property> 
+        <property id="count">
+            <type>integer</type>
+            <length>11</length>
+        </property>		
+    </class>
+    <class name="container">
+        <property id="id">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="desc">
+            <type>string</type>
+            <length>256</length>
+        </property>		
+        <property id="text">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="date">
+            <type>date</type>
+            <length>10</length>
+        </property>
+        <property id="in">
+            <type>timestamp</type>
+            <length>16</length>
+        </property>
+        <property id="update">
+            <type>timestamp</type>
+            <length>16</length>
+        </property> 
+        <property id="count">
+            <type>integer</type>
+            <length>11</length>
+        </property>		
+    </class>
+    <class name="option">
+        <property id="id">
+            <type>integer</type>
+            <length>11</length>
+        </property>
+        <property id="desc">
+            <type>string</type>
+            <length>256</length>
+        </property>		
+        <property id="text">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="date">
+            <type>date</type>
+            <length>10</length>
+        </property>
+        <property id="in">
+            <type>timestamp</type>
+            <length>16</length>
+        </property>
+        <property id="update">
+            <type>timestamp</type>
+            <length>16</length>
+        </property> 
+        <property id="entity.id">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="component.id">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="container.id">
+            <type>string</type>
+            <length>256</length>
+        </property>
+    </class>
+    <class name="bar">
+        <property id="id">
+            <type>integer</type>
+            <length>11</length>
+        </property>
+        <property id="desc">
+            <type>string</type>
+            <length>256</length>
+        </property>		
+        <property id="text">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="date">
+            <type>date</type>
+            <length>10</length>
+        </property>
+        <property id="in">
+            <type>timestamp</type>
+            <length>16</length>
+        </property>
+        <property id="update">
+            <type>timestamp</type>
+            <length>16</length>
+        </property>
+        <property id="index">
+            <type>integer</type>
+            <length>11</length>
+        </property>
+    </class>
+    <class name="menu">
+        <property id="id">
+            <type>integer</type>
+            <length>11</length>
+        </property>
+        <property id="desc">
+            <type>string</type>
+            <length>256</length>
+        </property>		
+        <property id="text">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="date">
+            <type>date</type>
+            <length>10</length>
+        </property>
+        <property id="in">
+            <type>timestamp</type>
+            <length>16</length>
+        </property>
+        <property id="update">
+            <type>timestamp</type>
+            <length>16</length>
+        </property>
+        <property id="index">
+            <type>integer</type>
+            <length>11</length>
+        </property>
+    </class>
+    <class name="role">
+        <property id="id">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="desc">
+            <type>string</type>
+            <length>256</length>
+        </property>		
+        <property id="text">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="date">
+            <type>date</type>
+            <length>10</length>
+        </property>
+        <property id="in">
+            <type>timestamp</type>
+            <length>16</length>
+        </property>
+        <property id="update">
+            <type>timestamp</type>
+            <length>16</length>
+        </property> 
+        <property id="count">
+            <type>integer</type>
+            <length>11</length>
+        </property>		
+    </class>
+    <class name="role.option">
+        <property id="id">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="option.id">
+            <type>integer</type>
+            <length>11</length>
+        </property>
+        <property id="bar.id">
+            <type>integer</type>
+            <length>11</length>
+        </property>
+        <property id="menu.id">
+            <type>integer</type>
+            <length>11</length>
+        </property>
+        <property id="index">
+            <type>integer</type>
+            <length>11</length>
+        </property>
+        <property id="desc">
+            <type>string</type>
+            <length>256</length>
+        </property>		
+        <property id="text">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="date">
+            <type>date</type>
+            <length>10</length>
+        </property>
+        <property id="in">
+            <type>timestamp</type>
+            <length>16</length>
+        </property>
+        <property id="update">
+            <type>timestamp</type>
+            <length>16</length>
+        </property> 
+        <property id="count">
+            <type>integer</type>
+            <length>11</length>
+        </property>		
+    </class>
+    <class name="user">
+        <property id="id">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="first">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="last">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="password">
+            <type>string</type>
+            <length>256</length>
+        </property>		
+        <property id="text">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="date">
+            <type>date</type>
+            <length>10</length>
+        </property>
+        <property id="in">
+            <type>timestamp</type>
+            <length>16</length>
+        </property>
+        <property id="update">
+            <type>timestamp</type>
+            <length>16</length>
+        </property> 
+        <property id="count">
+            <type>integer</type>
+            <length>11</length>
+        </property>		
+    </class>
+    <class name="user.role">
+        <property id="id">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="role.id">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="state">
+            <type>string</type>
+            <length>256</length>
+        </property>		
+        <property id="date">
+            <type>date</type>
+            <length>10</length>
+        </property>
+        <property id="in">
+            <type>timestamp</type>
+            <length>16</length>
+        </property>
+        <property id="update">
+            <type>timestamp</type>
+            <length>16</length>
+        </property>
+        <property id="count">
+            <type>integer</type>
+            <length>11</length>
+        </property>	
+    </class>
+    <class name="user.desk">
+        <property id="id">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="desk.id">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="desk.lang">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="state">
+            <type>string</type>
+            <length>256</length>
+        </property>	
+        <property id="date">
+            <type>date</type>
+            <length>10</length>
+        </property>
+        <property id="in">
+            <type>timestamp</type>
+            <length>16</length>
+        </property>
+        <property id="update">
+            <type>timestamp</type>
+            <length>16</length>
+        </property>
+        <property id="count">
+            <type>integer</type>
+            <length>11</length>
+        </property>	
+    </class>
+    <class name="session">
+        <property id="id">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="time">
+            <type>time</type>
+            <length>14</length>
+        </property>
+        <property id="duration">
+            <type>integer</type>
+            <length>256</length>
+        </property>
+        <property id="state">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="cookie">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="hhost">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="referer">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="agent">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="https">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="addr">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="host">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="port">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="userr">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="method">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="uri">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="desk.lang">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="desk.id">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="app.id">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="user.id">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="user.name">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="role.id">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="in">
+            <type>timestamp</type>
+            <length>16</length>
+        </property>
+        <property id="update">
+            <type>timestamp</type>
+            <length>16</length>
+        </property>
+    </class>
+</model>
+<mapper>
+	<class name="entity" collection="entities" type="table"></class>
+	<class name="component" collection="components" type="table"></class>
+	<class name="container" collection="containers" type="table"></class>
+	<class name="option" collection="options" type="table"></class>
+	<class name="bar" collection="bars" type="table"></class>
+	<class name="menu" collection="menus" type="table"></class>
+	<class name="role" collection="roles" type="table"></class>	
+	<class name="role.option" collection="role.options" type="table"></class>	
+	<class name="user" collection="users" type="table">
+		<!--property id="first" coumn="nombres"/-->
+		<!--property id="last" column="apellidos"/-->		
+	</class>
+	<class name="user.role" collection="user.roles" type="table"></class>	
+	<class name="user.desk" collection="user.desks" type="table"></class>	
+	<class name="session" collection="sessions" type="table"></class>	
+</mapper>
+<control>
+	<authentication>
+		<keys>
+			<key class="user" id="id"/>
+			<key class="user.desk" id="id"/>
+			<key class="user.role" id="id"/>
+		</keys>
+        <property id="user.id"/>
+        <property id="user.password"/>
+        <property id="user.first"/>
+        <property id="user.last"/>
+        <property id="role.id"/>
+        <property id="desk.id"/>
+        <property id="desk.lang"/>
+	</authentication>
+</control>

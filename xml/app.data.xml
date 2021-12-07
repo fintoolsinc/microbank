@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <title>Micro Bank</title>
+    <portal>
+		<app>microBank</app>
+        <port>31101</port>
+        <lang>es</lang>
+        <html>home</html>
+    </portal>
+    <database>
+        <host>localhost</host>
+        <port>4406</port>
+    	<name>microBank</name>
+        <driver>mysql</driver>
+    	<user>root</user>
+    	<pass>admin</pass>
+    	<connectionLimit>10</connectionLimit>		
+    </database>
+	<authentication>
+		<key>id</key>
+		<user>usuario</user>
+		<desk>usuario.desk</desk>
+		<role>usuario.role</role>
+        <property id="id"/>
+        <property id="password"/>
+        <property id="nombres"/>
+        <property id="apellidos"/>
+        <property id="role.id"/>
+        <property id="desk.id"/>
+        <property id="desk.lang"/>
+	</authentication>
+</data>

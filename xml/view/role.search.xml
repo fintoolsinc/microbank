@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<view type="grid">
+	<model>role</model>
+    <row id="thead">
+        <column id="id">
+            <attributes>
+                <index>1</index>
+                <type>text</type>
+                <header>ID</header>
+                <width>16</width>
+                <visible>yes</visible>
+            </attributes>
+        </column>
+        <column id="desc">
+            <attributes>
+                <index>2</index>
+                <type>text</type>
+                <header>DESCRIPCION</header>
+                <width>64</width>
+                <visible>yes</visible>
+            </attributes>
+        </column>
+        <column id="text">
+            <attributes>
+                <index>4</index>
+                <type>text</type>
+                <header>COMMENTS</header>
+                <width>64</width>
+                <visible>yes</visible>
+            </attributes>
+        </column>
+        <column id="date">
+            <attributes>
+                <index>5</index>
+                <type>date</type>
+                <header>DATE</header>
+                <width>16</width>
+                <visible>yes</visible>
+            </attributes>
+        </column>
+    </row>
+</view>

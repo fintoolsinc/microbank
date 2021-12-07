@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<view type="record">
+	<class>menu</class>
+    <element id="id">
+        <attributes>
+            <tag>input</tag>
+            <type>text</type>
+            <readOnly>no</readOnly>
+            <disabled>no</disabled>
+        </attributes>
+    </element>
+    <element id="desc">
+        <attributes>
+            <tag>input</tag>
+            <type>text</type>
+            <readOnly>no</readOnly>
+            <disabled>no</disabled>
+        </attributes>
+    </element>
+    <element id="text">
+        <attributes>
+            <tag>input</tag>
+            <type>text</type>
+            <readOnly>no</readOnly>
+            <disabled>no</disabled>
+        </attributes>
+    </element>
+    <element id="date">
+        <attributes>
+            <tag>input</tag>
+            <type>date</type>
+            <readOnly>no</readOnly>
+            <disabled>no</disabled>
+        </attributes>
+    </element>
+    <element id="in">
+        <attributes>
+            <tag>input</tag>
+            <type>text</type>
+            <readOnly>no</readOnly>
+            <disabled>no</disabled>
+        </attributes>
+    </element>
+    <element id="update">
+        <attributes>
+            <tag>input</tag>
+            <type>text</type>
+            <readOnly>no</readOnly>
+            <disabled>no</disabled>
+        </attributes>
+    </element>
+</view>

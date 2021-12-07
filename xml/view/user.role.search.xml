@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<view type="grid">
+	<model>user.role</model>
+    <row id="thead">
+        <column id="id">
+            <attributes>
+                <index>1</index>
+                <type>text</type>
+                <header>LOGIN</header>
+                <width>16</width>
+                <visible>yes</visible>
+            </attributes>
+        </column>
+        <column id="role.id">
+            <attributes>
+                <index>2</index>
+                <type>text</type>
+                <header>ROLE ID</header>
+                <width>64</width>
+                <visible>yes</visible>
+            </attributes>
+        </column>
+        <column id="state">
+            <attributes>
+                <index>4</index>
+                <type>text</type>
+                <header>STATE</header>
+                <width>16</width>
+                <visible>yes</visible>
+            </attributes>
+        </column>
+        <column id="date">
+            <attributes>
+                <index>5</index>
+                <type>date</type>
+                <header>DATE</header>
+                <width>16</width>
+                <visible>yes</visible>
+            </attributes>
+        </column>
+        <column id="count">
+            <attributes>
+                <index>6</index>
+                <type>text</type>
+                <header>ACTIONS</header>
+                <width>24</width>
+                <visible>yes</visible>
+            </attributes>
+        </column>
+    </row>
+</view>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model>
+    <class name="bank">
+        <property id="id">
+            <type>integer</type>
+            <length>11</length>
+        </property>
+        <property id="desc">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="text">
+            <type>text</type>
+            <length>0</length>
+        </property>
+        <property id="date">
+            <type>date</type>
+            <length>14</length>
+        </property>
+        <property id="in">
+            <type>timestamp</type>
+            <length>14</length>
+        </property>
+        <property id="update">
+            <type>timestamp</type>
+            <length>14</length>
+        </property>
+    </class>
+    <mapper>
+        <class name="bank" collection="banks" type="table" key="id"/>
+    </mapper>
+</model>

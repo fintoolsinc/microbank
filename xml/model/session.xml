@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model>
+    <class name="session">
+        <property id="id">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="time">
+            <type>time</type>
+            <length>14</length>
+        </property>
+        <property id="duration">
+            <type>integer</type>
+            <length>256</length>
+        </property>
+        <property id="state">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="cookie">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="hhost">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="referer">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="agent">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="https">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="addr">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="host">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="port">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="userr">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="method">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="uri">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="desk.lang">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="desk.id">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="app.id">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="user.id">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="user.name">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="role.id">
+            <type>string</type>
+            <length>256</length>
+        </property>
+        <property id="in">
+            <type>timestamp</type>
+            <length>16</length>
+        </property>
+        <property id="update">
+            <type>timestamp</type>
+            <length>16</length>
+        </property>
+    </class>
+    <mapper>
+        <class name="session" collection="sessions" type="table" key="id"/>	
+    </mapper>    
+</model>
